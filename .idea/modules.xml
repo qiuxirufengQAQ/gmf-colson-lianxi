@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" filepath="$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmf-colson-lianxi.iml" filepath="$PROJECT_DIR$/gmf-colson-lianxi.iml" />
+    </modules>
+  </component>
+</project>
