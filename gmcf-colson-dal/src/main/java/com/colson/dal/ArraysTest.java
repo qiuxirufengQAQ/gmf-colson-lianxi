@@ -1,5 +1,6 @@
 package com.colson.dal;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -43,7 +44,7 @@ public class ArraysTest {
         //对象数组转换为list
         Week[] workDays = {Week.Mon, Week.Tue, Week.Wed,Week.Thu,Week.Fri};
         List list2 = Arrays.asList(workDays);
-        list2.add(Week.Sun);
+//        list2.add(Week.Sun);
         //[Mon, Tue, Wed, Thu, Fri]
 //        list2.add(com.colson.dal.Week.Sun);
 //        使用Arrays.asList得到的list不能使用add/remove/clear方法，
@@ -56,5 +57,10 @@ public class ArraysTest {
 //　　（2）该方法将数组与列表链接起来，当更新其中之一时，另一个自动更新
 //
 //　　（3）不支持add和remove方法
+
+        //如果想要可变，那就使用ArrayList再包装一下
+        List<String> numbers = new ArrayList<String>(Arrays.asList("1","2","3"));
+        numbers.add("4");
+        System.out.println(numbers);
     }
 }

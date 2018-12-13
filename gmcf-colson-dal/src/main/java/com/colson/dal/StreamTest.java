@@ -4,6 +4,16 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class StreamTest {
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public static void main(String[] args) {
         //使用Arrays.asList方法
         List<String> strings = Arrays.asList("abc", "", "bc", "efg", "abcd","", "jkl");
@@ -75,5 +85,24 @@ public class StreamTest {
             System.out.println("1");
         }
 
+        StreamTest streamTest = new StreamTest();
+        streamTest.setName("wang");
+        System.out.println(streamTest.equals(streamTest));
+        int ee = 10;
+        System.out.println("124");
+        System.out.println("-------YouMeek-------ee值-" + ee + "," + "当前类-" + "StreamTest" + "," + "当前方法-" + "main");
+        System.out.println("-------YouMeek-------ee值-" + ee + "," + "当前类-" + "StreamTest" + "," + "当前方法-" + "main");
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj.toString().equals(this.toString())){
+            return true;
+        }
+
+        return false;
+    }
+    public void testTem(String num){
+        int i=10;
     }
 }
