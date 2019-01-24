@@ -35,6 +35,21 @@ public class DateUtilsTest {
 //        System.out.println(dateFormat.format(DateUtils.truncate(date, Calendar.DAY_OF_WEEK_IN_MONTH)));
         //IllegalArgumentException: The field 8 is not supported
         System.out.println(dateFormat.format(DateUtils.truncate(date, Calendar.DAY_OF_MONTH)));
+
+
+        //DateUtils.truncate测试
+        System.out.println(DateUtils.truncate(date,Calendar.DAY_OF_MONTH));
+        //Sat Jan 19 00:00:00 CST 2019
+        System.out.println(DateUtils.truncate(date,Calendar.HOUR_OF_DAY));
+        //Sat Jan 19 12:00:00 CST 2019
+        System.out.println(DateUtils.truncate(date,Calendar.MINUTE));
+        //Sat Jan 19 12:25:00 CST 2019
+        System.out.println(DateUtils.truncate(date,Calendar.SECOND));
+        //Sat Jan 19 12:27:57 CST 2019
+        System.out.println(DateUtils.truncate(date,Calendar.MONTH));
+        //Tue Jan 01 00:00:00 CST 2019
+        System.out.println(DateUtils.truncate(date,Calendar.YEAR));
+        //Tue Jan 01 00:00:00 CST 2019
     }
 
 }
