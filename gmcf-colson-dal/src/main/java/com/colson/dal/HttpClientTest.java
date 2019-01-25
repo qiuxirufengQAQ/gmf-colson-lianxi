@@ -1,6 +1,7 @@
 package com.colson.dal;
 
 import org.apache.commons.httpclient.HttpClient;
+import org.apache.commons.httpclient.HttpMethod;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
 
@@ -41,10 +42,37 @@ public class HttpClientTest {
     }
 
     public static void main(String[] args) {
-        doGet();
-        System.out.println("-----------分割线------------");
-        System.out.println("-----------分割线------------");
-        System.out.println("-----------分割线------------");
-        doPost();
+//        doGet();
+//        System.out.println("-----------分割线------------");
+//        System.out.println("-----------分割线------------");
+//        System.out.println("-----------分割线------------");
+//        doPost();
+        baseTest();
+    }
+    private static void baseTest(){
+        //创建client
+        HttpClient httpClient = new HttpClient();
+        //创建getMethod
+        HttpMethod method = new GetMethod("https://www.baidu.com/");
+        //post请求创建postMethod
+//        HttpMethod postMethod = new PostMethod();
+
+        try {
+            httpClient.executeMethod(method);
+
+            System.out.println(method.getStatusLine());
+            System.out.println(method.getResponseBodyAsString());
+
+            //记得关闭连接
+            method.releaseConnection();
+        }catch (IOException ex){
+            System.out.println(ex.getMessage());
+        }
+    }
+    private static void paramsTest(){
+        HttpClient client = new HttpClient();
+        //设置超时时长
+        client.getParams().setConnectionManagerTimeout(5000);
+        client.getParams().setContentCharset("utf-8");
     }
 }
