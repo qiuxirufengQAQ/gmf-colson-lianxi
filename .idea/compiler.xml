@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="gmcf-colson-dal" target="1.8" />
-      <module name="gmf-colson-lianxi" target="1.8" />
+      <module name="gmf-colson-lianxi" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

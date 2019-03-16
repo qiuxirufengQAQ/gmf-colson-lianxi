@@ -12,14 +12,14 @@
     <artifactId>gmcf-colson-dal</artifactId>
     <build>
         <plugins>
-            <!--<plugin>-->
-                <!--<groupId>org.apache.maven.plugins</groupId>-->
-                <!--<artifactId>maven-compiler-plugin</artifactId>-->
-                <!--<configuration>-->
-                    <!--<source>1.8</source>-->
-                    <!--<target>1.8</target>-->
-                <!--</configuration>-->
-            <!--</plugin>-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
             <plugin>
                 <groupId>org.mybatis.generator</groupId>
                 <artifactId>mybatis-generator-maven-plugin</artifactId>
@@ -36,12 +36,36 @@
                         </goals>
                     </execution>
                 </executions>
-                <dependencies>
-                    <dependency>
-                        <groupId>org.mybatis.generator</groupId>
-                        <artifactId>mybatis-generator-core</artifactId>
-                    </dependency>
-                </dependencies>
+                <!--<dependencies>-->
+                    <!--<dependency>-->
+                        <!--<groupId>org.mybatis.generator</groupId>-->
+                        <!--<artifactId>mybatis-generator-core</artifactId>-->
+                    <!--</dependency>-->
+                <!--</dependencies>-->
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-javadoc-plugin</artifactId>
+                <version>2.10.3</version>
+                <configuration>
+                    <doclet>net.winroad.wrdoclet.HtmlDoclet</doclet>
+                    <docletArtifact>
+                        <groupId>net.winroad</groupId>
+                        <artifactId>wrdoclet</artifactId>
+                        <version>1.2.3</version>
+                    </docletArtifact>
+                    <useStandardDocletOptions>false</useStandardDocletOptions>
+                    <additionalparam>
+
+                        -charset utf-8
+                        -d
+                        ${project.basedir}/target/apidocs
+                        -searchengine
+                        http://interdoc.gmcfcloud.com:8080/solr/apidocs
+                        -dubboconfigpath
+                        ${project.basedir}/../gmcf-cqc-biz/src/main/resources/spring/applicationContext-dubbo-provider.xml
+                    </additionalparam>
+                </configuration>
             </plugin>
         </plugins>
     </build>
