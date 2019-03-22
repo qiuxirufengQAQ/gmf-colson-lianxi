@@ -1,12 +1,52 @@
 package com.colson.leetCode;
 
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.List;
+import java.util.*;
 
 public class Solution {
+
+	//给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
+	//暴力解法
+	public static int[] twoSum(int[] nums, int target) throws Exception {
+		for(int i=0;i<nums.length;i++){
+			for(int j=i+1;j<nums.length;j++){
+				if(nums[i]+nums[j]==target){
+					int[] ints = {i,j};
+					return ints;
+				}
+			}
+		}
+		throw new Exception("No exit nums");
+	}
+
+	//用hash表，利用空间换时间的方式，两次Hash表
+	public static int[] twoSum2(int[] nums, int target) throws Exception {
+		Map<Integer,Integer> map = new HashMap<>();
+		for (int i=0;i<nums.length;i++){
+			if (!map.containsKey(nums[i])){
+				map.put(nums[i],i);
+			}
+		}
+		for (int j=0;j<nums.length;j++){
+			if (map.containsKey(target-nums[j]) && map.get(target-nums[j])!=j){
+				return new int[]{map.get(target-nums[j]),j};
+			}
+		}
+		throw new Exception("No exit nums");
+	}
+
+	//用hash表，利用空间换时间的方式，1次Hash表
+	public static int[] twoSum3(int[] nums, int target) throws Exception {
+		Map<Integer,Integer> map = new HashMap<>();
+		for (int i=0;i<nums.length;i++){
+			if (map.containsKey(target-nums[i])){
+				return new int[]{i,map.get(target-nums[i])};
+			}
+			map.put(nums[i],i);
+		}
+		throw new Exception("No exit nums");
+	}
+
 
 	//给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。
 	//输入: [2,2,1]
@@ -79,38 +119,41 @@ public class Solution {
 	}
 
 	//给出两个 非空 的链表用来表示两个非负的整数。其中，它们各自的位数是按照 逆序 的方式存储的，并且它们的每个节点只能存储 一位 数字。
-	//
 	//如果，我们将这两个数相加起来，则会返回一个新的链表来表示它们的和。
-	//
 	//您可以假设除了数字 0 之外，这两个数都不会以 0 开头。
-	//
 	//示例：
-	//
 	//输入：(2 -> 4 -> 3) + (5 -> 6 -> 4)
 	//输出：7 -> 0 -> 8
 	//原因：342 + 465 = 807
 	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-		Integer num1 = 0,num2 = 0,num3;
-		Integer mul1 = 1;
-		while(l1!=null){
-			num1 = l1.val*mul1 + num1;
-			mul1 = mul1*10;
-			l1 = l1.next;
+		int carry = 0;
+		ListNode l3 = new ListNode(0);
+		ListNode first = l3;
+		while (l1.next != null || l2.next != null){
+			l3.val = (l1.val + l2.val + carry)%10;
+			if (l1.val+l2.val+carry>9){
+				carry = 1;
+			}else {
+				carry = 0;
+			}
+			if (l1.next ==null){
+				l1.val = 0;
+			}else {
+				l1 = l1.next;
+			}
+			if (l2.next ==null){
+				l2.val = 0;
+			}else {
+				l2 = l2.next;
+			}
+			l3.next = new ListNode(0);
+			l3 = l3.next;
 		}
-		mul1 = 1;
-		while(l2!=null){
-			num2 = l2.val*mul1 + num2;
-			mul1 = mul1*10;
-			l2 = l2.next;
-		}
-		num3 = num1 + num2;
-		ListNode p = new ListNode(num3%10);
-		ListNode first = p;
-		while(num3/10 != 0){
-			num3 = num3/10;
-			ListNode listNode = new ListNode(num3%10);
-			p.next = listNode;
-			p = listNode;
+		if (l1.val+l2.val + carry > 9){
+			l3.val = (l1.val+l2.val + carry)%10;
+			l3.next = new ListNode(1);
+		}else {
+			l3.val = l1.val+l2.val + carry;
 		}
 		return first;
 	}
@@ -198,8 +241,54 @@ public class Solution {
 		return "";
 	}
 
+	//给定一个链表，删除链表的倒数第 n 个节点，并且返回链表的头结点。
+	public static ListNode removeNthFromEnd(ListNode head, int n) {
 
-	public static void main(String[] args) {
+		ListNode temp;
+		temp = head;
+		int count = 1;
+		while (temp.next!=null){
+			count++;
+			temp = temp.next;
+		}
+		if (n<=0 || n>count){
+			return head;
+		}
+		if (n == count){
+			head = head.next;
+			return head;
+		}
+		temp = head;
+		while (count>n+1){
+			count--;
+			temp = temp.next;
+		}
+		if (temp.next.next !=null){
+			temp.next = temp.next.next;
+		}else {
+			temp.next = null;
+		}
+		return head;
+	}
+
+
+
+	public static void main(String[] args) throws Exception{
+		//暴力法
+		long startTime = System.currentTimeMillis();
+		System.out.println(Arrays.toString(twoSum(new int[]{2, 7, 11, 15},9)));
+		System.out.println(System.currentTimeMillis()-startTime);
+
+		//两遍Hasp表
+		long startTime2 = System.currentTimeMillis();
+		System.out.println(Arrays.toString(twoSum2(new int[]{2, 7, 11, 15},9)));
+		System.out.println(System.currentTimeMillis()-startTime2);
+
+		//1遍hash表
+		long startTime3 = System.currentTimeMillis();
+		System.out.println(Arrays.toString(twoSum3(new int[]{2, 7, 11, 15},9)));
+		System.out.println(System.currentTimeMillis()-startTime3);
+
 		//singleNumber
 		int[] nums = {2,2,1};
 		System.out.println(Solution.singleNumber(nums));
@@ -220,7 +309,7 @@ public class Solution {
 		l2 = l2.next;
 		l2.next = new ListNode(9);
 		l2 = l2.next;
-		l2.next = new ListNode(9);l2 = l2.next;
+		l2.next = new ListNode(8);l2 = l2.next;
 		l2.next = (new ListNode(9));l2 = l2.next;
 		l2.next = (new ListNode(9));l2 = l2.next;
 		l2.next = (new ListNode(9));
@@ -240,5 +329,24 @@ public class Solution {
 		System.out.println(findMedianSortedArrays(new int[]{1,3,5,7},new int[]{2,4,6,8}));
 
 		System.out.println(Solution.longestPalindrome("ac"));
+
+
+
+		ListNode head = new ListNode(1);
+		ListNode temp = head;
+		temp.next = new ListNode(2);
+		temp = temp.next;
+		temp.next = new ListNode(3);
+		temp = temp.next;
+		temp.next = new ListNode(4);
+		temp = temp.next;
+		temp.next = new ListNode(5);
+		ListNode listNode1 = Solution.removeNthFromEnd(head, 5);
+		System.out.print(listNode1.val);
+		while (listNode1.next !=null){
+			listNode1 = listNode1.next;
+			System.out.print("->"+listNode1.val);
+		}
+
 	}
 }
