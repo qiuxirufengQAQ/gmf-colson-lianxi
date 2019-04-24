@@ -1,8 +1,8 @@
 package com.colson.leetCode;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import org.apache.commons.lang3.StringUtils;
+
+import java.util.*;
 
 public class Solution3 {
 
@@ -198,6 +198,22 @@ public class Solution3 {
 		}
 		return temp;
 	}
+	//1017给定正整数 N，返回小于等于 N 且具有至少 1 位重复数字的正整数。
+	public static int numDupDigitsAtMostN(int N) {
+		int count=0;
+		Set set = new HashSet();
+		for (int i=11;i<=N;i++){
+			String[] split = String.valueOf(i).split("");
+			for (int j=0;j<split.length;j++){
+				set.add(split[j]);
+			}
+			if (set.size()!=split.length){
+				count++;
+			}
+			set.clear();
+		}
+		return count;
+	}
 
 	public static void main(String[] args) {
 		ListNode head1 = new ListNode(1);
@@ -275,6 +291,10 @@ public class Solution3 {
 		System.out.println(Solution3.removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4}));
 
 		System.out.println(Solution3.removeElement(new int[]{3,2,2,3},3));
+
+//		long startTime = System.currentTimeMillis();
+//		System.out.println(Solution3.numDupDigitsAtMostN(6718458));
+//		System.out.println(System.currentTimeMillis()-startTime);
 
 	}
 }
