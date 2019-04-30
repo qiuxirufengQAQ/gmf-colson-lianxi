@@ -2,7 +2,10 @@ package com.colson.fileReader;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import com.colson.dal.FeeDto;
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 
+import javax.annotation.Resource;
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
@@ -11,6 +14,11 @@ import java.util.List;
 
 
 public class FileReader{
+
+	@Resource
+	private FeeDto feeDto;
+
+
 
 	public static void main(String[] args) throws Exception{
 
@@ -21,12 +29,15 @@ public class FileReader{
 //		getOutput("预扣恢复JSON.sql");
 
 		//从JSON中获取预扣占用的请求
-		getOutput("预扣占用JSON.sql");
+//		getOutput("预扣占用JSON.sql");
 
 		//从JSON中获取其他请求
-//		getOutput("其他请求.sql");
+		getOutput("其他请求.sql");
 	}
 
+	public void testMethod(){
+		System.out.println(feeDto.toString());
+	}
 
 	public static void getOutput(String sourceFilePath) throws Exception{
 		String resultPath = "";
