@@ -23,7 +23,7 @@ public class FileReader{
 	public static void main(String[] args) throws Exception{
 
 		//获取追踪编号
-//		getTraceId(FileEnum.TRACEID.getSourceFilePath(),FileEnum.TRACEID.getResultFilePath());
+		getTraceId(FileEnum.TRACEID.getSourceFilePath(),FileEnum.TRACEID.getResultFilePath());
 
 		//从JSON中获取预扣恢复的请求
 //		getOutput("预扣恢复JSON.sql");
@@ -32,7 +32,7 @@ public class FileReader{
 //		getOutput("预扣占用JSON.sql");
 
 		//从JSON中获取其他请求
-		getOutput("其他请求.sql");
+//		getOutput("其他请求.sql");
 	}
 
 	public void testMethod(){
