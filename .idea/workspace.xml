@@ -2,32 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1448812-ed0a-42a7-8826-42997cc14dd8" name="Default" comment="更新ArrayList和DateUtils">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_0_Beta5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_0_Beta5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_0_Beta5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_0_Beta5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_0_Beta5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_0_Beta5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/ArrayStack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BubbleSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/ChooseSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashChain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashDouble.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/InsertSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyHashTable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyQueue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyStack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/SortLink.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/gamble/allIn.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/gamble/kellyFormula.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/http/HttpClientService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BinaryTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Combination.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/DoublePointLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Knapsack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Node.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/OrderLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/PriorityQueue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/QueueLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Recursion.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/SingleLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/StackSingleLink.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Tree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/TwoWayLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/sourceCodeAnalysis/ObjectTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" afterPath="$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" afterPath="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/url/URLTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashChain.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashChain.java" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyQueue.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyQueue.java" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyStack.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyStack.java" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/dataStructure/HashChain.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/dataStructure/HashChain.class" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/dataStructure/MyQueue.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/dataStructure/MyQueue.class" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/dataStructure/MyStack.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/dataStructure/MyStack.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,44 +61,136 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="FileReader.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FileReader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="399">
+              <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/ArrayStack.java">
+      <file leaf-file-name="OrderLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/OrderLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-311">
-              <caret line="108" column="27" lean-forward="false" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+            <state relative-caret-position="95">
+              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyQueue.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyQueue.java">
+      <file leaf-file-name="TwoWayLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/TwoWayLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="86" column="8" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+            <state relative-caret-position="114">
+              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="29" />
               <folding>
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1050#1051#0" expanded="true" />
-                <element signature="e#1085#1086#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#1205#1206#0" expanded="true" />
+                <element signature="e#1223#1224#0" expanded="true" />
+                <element signature="e#1262#1263#0" expanded="true" />
+                <element signature="e#1287#1288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recursion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Recursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3686">
+              <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Knapsack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Knapsack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Combination.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Combination.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3610">
+              <caret line="192" column="22" lean-forward="false" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/sourceCodeAnalysis/ObjectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1406">
+              <caret line="84" column="119" lean-forward="false" selection-start-line="84" selection-start-column="119" selection-end-line="84" selection-end-column="119" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,6 +204,7 @@
         <option value="HTML File" />
         <option value="Tag Library Descriptor" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -140,20 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/MathTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/DateToStringTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/NumToIncreaseNoTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/web/Index.html" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/TwentyMonthTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/DrawChartTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/generatorConfig.xml.fxml" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/DateUtilsTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/JobTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/HttpTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/CloseableHttpClientTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/HttpClientTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/Task.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/ThreadTest.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/thread/ChuJu.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/MapTest.java" />
@@ -179,7 +253,6 @@
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/SortLink.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyHashTable.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashDouble.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashChain.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/gamble/allIn.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/gamble/kellyFormula.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" />
@@ -188,9 +261,24 @@
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BubbleSort.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/ChooseSort.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/InsertSort.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyStack.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashChain.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyQueue.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyStack.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/PriorityQueue.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/StackSingleLink.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/DoublePointLinkedList.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/QueueLinkedList.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/OrderLinkedList.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/TwoWayLinkedList.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Recursion.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Knapsack.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Combination.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Node.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Tree.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/sourceCodeAnalysis/ObjectTest.java" />
       </list>
     </option>
   </component>
@@ -245,10 +333,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2391" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="2418" />
-    <option name="height" value="1318" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -290,10 +378,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -344,16 +430,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="colson" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gmf-colson-lianxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmf-colson-lianxi" type="462c0819:PsiDirectoryNode" />
-              <item name="gmcf-colson-dal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="colson" type="462c0819:PsiDirectoryNode" />
               <item name="fileReader" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -381,6 +457,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,7 +469,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gmcf-lsc-job" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="SearchEverywhereHistoryKey" value="IllegalArgumentException&#9;PSI&#9;JAVA://java.lang.IllegalArgumentException&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java&#10;workspace.xml&#9;FILE&#9;file://D:/git/gmf-colson-lianxi/.idea/workspace.xml" />
@@ -419,7 +497,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyQueue">
+  <component name="RunManager" selected="Application.FileReader">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -427,14 +505,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.colson.dataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.ArrayStack" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.BinaryTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -465,14 +543,33 @@
       <module name="gmcf-colson-dal" />
       <envs />
     </configuration>
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.colson.sourceCodeAnalysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.colson.sourceCodeAnalysis.ObjectTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gmcf-colson-dal" />
+      <envs />
+    </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.colson.dataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.MyQueue" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.Recursion" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -498,44 +595,19 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="ArrayStack.testMatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ObjectTest.testObjectMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.colson.dataStructure.*" />
+          <option name="PATTERN" value="com.colson.sourceCodeAnalysis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="gmcf-colson-dal" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.colson.dataStructure" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.ArrayStack" />
-      <option name="METHOD_NAME" value="testMatch" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ArrayStack.testStringReversal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.colson.dataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="gmcf-colson-dal" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.colson.dataStructure" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.ArrayStack" />
-      <option name="METHOD_NAME" value="testStringReversal" />
+      <option name="PACKAGE_NAME" value="com.colson.sourceCodeAnalysis" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.sourceCodeAnalysis.ObjectTest" />
+      <option name="METHOD_NAME" value="testObjectMethod" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -621,19 +693,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ArrayStack" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ArrayStack.testStringReversal" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ArrayStack.testMatch" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FileReader" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyQueue" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FileReader" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Recursion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ObjectTest.testObjectMethod" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ObjectTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyQueue" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FileReader" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayStack" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ArrayStack.testMatch" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ArrayStack.testStringReversal" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FileReader" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ObjectTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ObjectTest.testObjectMethod" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -721,7 +793,15 @@
       <workItem from="1557041071820" duration="5407000" />
       <workItem from="1557108833769" duration="7388000" />
       <workItem from="1557198714259" duration="6432000" />
-      <workItem from="1557383210872" duration="11711000" />
+      <workItem from="1557383210872" duration="13160000" />
+      <workItem from="1557711654283" duration="5103000" />
+      <workItem from="1557797080942" duration="9966000" />
+      <workItem from="1557914849477" duration="1754000" />
+      <workItem from="1557985591514" duration="2914000" />
+      <workItem from="1558087750997" duration="658000" />
+      <workItem from="1558319295975" duration="1699000" />
+      <workItem from="1558433421641" duration="3232000" />
+      <workItem from="1558665942630" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="更新ArrayList和DateUtils">
       <created>1544149278903</created>
@@ -734,17 +814,17 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArrayStack_testMatch - 2019.05.09 at 17h 10m 16s.xml">
-      <configuration name="ArrayStack.testMatch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayStack_testStringReversal - 2019.05.09 at 17h 04m 23s.xml">
-      <configuration name="ArrayStack.testStringReversal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArrayStack_testStringReversal - 2019.05.09 at 17h 05m 54s.xml">
       <configuration name="ArrayStack.testStringReversal" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ArrayStack_testStringReversal - 2019.05.09 at 17h 06m 11s.xml">
       <configuration name="ArrayStack.testStringReversal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectTest_testObjectMethod - 2019.05.16 at 13h 49m 03s.xml">
+      <configuration name="ObjectTest.testObjectMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectTest_testObjectMethod - 2019.05.16 at 13h 50m 26s.xml">
+      <configuration name="ObjectTest.testObjectMethod" configurationId="JUnit" />
     </history-entry>
     <history-entry file="kellyFormula_isWinOrLose - 2019.05.07 at 11h 17m 09s.xml">
       <configuration name="kellyFormula.isWinOrLose" configurationId="JUnit" />
@@ -766,7 +846,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293668000" />
+    <option name="totallyTimeSpent" value="321285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,43 +858,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36047575" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33943275" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28432563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34034768" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28702703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22810811" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24978541" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3357731" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3357731" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Byte Code Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="848" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="2491" y="91" width="2218" height="1118" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16972972" sideWeight="0.5139733" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -908,7 +987,7 @@
           <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="62" />
+      <option name="time" value="63" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -917,462 +996,347 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/competition/Resolve.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/OrderLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#942#943#0" expanded="false" />
-            <element signature="e#992#993#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/BufferedWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="123" column="9" lean-forward="false" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="641" column="43" lean-forward="false" selection-start-line="641" selection-start-column="32" selection-end-line="641" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/80d56887-435f-4576-8650-83eb4a8cf768/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/1871a1b9/80d56887-435f-4576-8650-83eb4a8cf768/db_gmcf_cqc.agreement">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/1871a1b9/80d56887-435f-4576-8650-83eb4a8cf768/db_gmcf_cqc.t_cqc_member">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar!/org/junit/Assert.class">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/TwoWayLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/baseKnowledge/TestFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="5" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmf-colson-lianxi.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="28" />
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="29" />
           <folding>
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#515#516#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1223#1224#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dal/FeeDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/spring/service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="3686">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" column="45" lean-forward="false" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/annotation/SpringBootTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/spring/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/http/URLTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="48" column="10" lean-forward="false" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec-http/4.1.0.Beta5/netty-codec-http-4.1.0.Beta5.jar!/io/netty/handler/codec/http/HttpHeaderValues.class">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Knapsack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2850">
-          <caret line="150" column="50" lean-forward="false" selection-start-line="150" selection-start-column="50" selection-end-line="150" selection-end-column="50" />
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/http/HttpClientService.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Combination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="494">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyHashTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#420#421#0" expanded="false" />
-            <element signature="e#456#457#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#524#525#0" expanded="false" />
-            <element signature="e#815#816#0" expanded="false" />
-            <element signature="e#842#843#0" expanded="false" />
-            <element signature="e#2475#2476#0" expanded="false" />
-            <element signature="e#2502#2503#0" expanded="false" />
-            <element signature="e#2525#2526#0" expanded="false" />
-            <element signature="e#2546#2547#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/SortLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="76" column="5" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
-          <folding>
-            <element signature="e#108#109#0" expanded="false" />
-            <element signature="e#127#128#0" expanded="false" />
-            <element signature="e#154#155#0" expanded="false" />
-            <element signature="e#183#184#0" expanded="false" />
-            <element signature="e#1403#1404#0" expanded="false" />
-            <element signature="e#1430#1431#0" expanded="false" />
-            <element signature="e#1453#1454#0" expanded="false" />
-            <element signature="e#1474#1475#0" expanded="false" />
-            <element signature="e#1503#1504#0" expanded="false" />
-            <element signature="e#1543#1544#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/DataDeal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6213">
-          <caret line="327" column="15" lean-forward="false" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/gamble/allIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/gamble/kellyFormula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="44" column="44" lean-forward="false" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="5" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#956#957#0" expanded="false" />
-            <element signature="e#984#985#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashDouble.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/HashChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding>
-            <element signature="e#485#486#0" expanded="false" />
-            <element signature="e#512#513#0" expanded="false" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/ChooseSort.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="437">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="3610">
+          <caret line="192" column="22" lean-forward="false" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
           <folding>
-            <element signature="e#329#330#0" expanded="false" />
-            <element signature="e#356#357#0" expanded="false" />
-            <element signature="e#387#388#0" expanded="false" />
-            <element signature="e#412#413#0" expanded="false" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/IllegalArgumentException.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/sourceCodeAnalysis/ObjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="446" column="57" lean-forward="false" selection-start-line="446" selection-start-column="57" selection-end-line="446" selection-end-column="57" />
-          <folding>
-            <element signature="e#15956#15957#0" expanded="false" />
-            <element signature="e#16009#16010#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar!/org/junit/runners/model/RunnerBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar!/org/junit/runners/model/TestClass.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="1648" column="28" lean-forward="false" selection-start-line="1648" selection-start-column="28" selection-end-line="1648" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="130" column="22" lean-forward="true" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#3888#0" expanded="false" />
-            <element signature="e#2838#2839#0" expanded="false" />
-            <element signature="e#2872#2873#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar!/org/junit/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="2896" column="18" lean-forward="false" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/ArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <caret line="108" column="27" lean-forward="false" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+        <state relative-caret-position="1406">
+          <caret line="84" column="119" lean-forward="false" selection-start-line="84" selection-start-column="119" selection-end-line="84" selection-end-column="119" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/MyQueue.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/OrderLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="86" column="8" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+        <state relative-caret-position="95">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
           <folding>
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/TwoWayLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1223#1224#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3686">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Knapsack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Combination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3610">
+          <caret line="192" column="22" lean-forward="false" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/sourceCodeAnalysis/ObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="84" column="119" lean-forward="false" selection-start-line="84" selection-start-column="119" selection-end-line="84" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/OrderLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/TwoWayLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1223#1224#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Knapsack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3686">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Combination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3610">
+          <caret line="192" column="22" lean-forward="false" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/sourceCodeAnalysis/ObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="84" column="119" lean-forward="false" selection-start-line="84" selection-start-column="119" selection-end-line="84" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,5 +1,9 @@
 package com.colson.dataStructure;
 
+
+/**
+ * 栈
+ */
 public class MyStack {
 	private int[] arrays;
 

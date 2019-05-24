@@ -1,5 +1,9 @@
 package com.colson.dataStructure;
 
+
+/**
+ * 哈希表
+ */
 public class HashChain {
 	private SortLink[] hashArray;//数组中存放链表
 	private int arraySize;

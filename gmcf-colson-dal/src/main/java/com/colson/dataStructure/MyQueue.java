@@ -1,5 +1,9 @@
 package com.colson.dataStructure;
 
+
+/**
+ * 队列
+ */
 public class MyQueue {
 	private Object[] queArray;
 	//队列总大小
