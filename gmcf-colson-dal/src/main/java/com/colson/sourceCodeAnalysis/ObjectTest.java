@@ -117,6 +117,16 @@ public class ObjectTest {
 		}
 	}
 
+	//getClass方法
+	@Test
+	public void testClass(){
+		Parent p = new Son();
+		System.out.println(p.getClass());
+		//class com.colson.sourceCodeAnalysis.Son
+		System.out.println(Parent.class);
+		//class com.colson.sourceCodeAnalysis.Parent
+	}
+
 	public static void main(String[] args) {
 
 		//重写equals方法
