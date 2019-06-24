@@ -215,6 +215,48 @@ public class Solution3 {
 		return count;
 	}
 
+	//给定一个 haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位置 (从0开始)。如果不存在，则返回  -1。
+	//
+	public static int strStr(String haystack, String needle) {
+
+		if (needle.length()>haystack.length()){
+			return -1;
+		}
+		if (needle.length()==0){
+			return 0;
+		}
+		int result = -1;
+
+		String substring;
+
+		for (int i = 0; i < haystack.length(); i++) {
+			substring = haystack.substring(i, haystack.length());
+			if (isContain(substring,needle)){
+				result = i;
+
+				return result;
+			}
+		}
+		return result;
+
+	}
+
+	public static boolean isContain(String haystack, String needle){
+		for (int i = 0; i < haystack.length(); i++) {
+			if (haystack.charAt(i)!=needle.charAt(i)){
+				return false;
+			}
+			if (i==needle.length()-1){
+				return true;
+			}
+		}
+		return false;
+	}
+
+	public static int divide(int dividend, int divisor) {
+		return dividend/divisor;
+	}
+
 	public static void main(String[] args) {
 		ListNode head1 = new ListNode(1);
 		ListNode head2 = new ListNode(1);
@@ -296,5 +338,14 @@ public class Solution3 {
 //		System.out.println(Solution3.numDupDigitsAtMostN(6718458));
 //		System.out.println(System.currentTimeMillis()-startTime);
 
+
+		//实现strStr()函数
+		System.out.println("strStr函数："+Solution3.strStr("abcd", "cd"));
+
+		System.out.println(Solution3.divide(-2147483648,-1));
+		System.out.println(Integer.MIN_VALUE-1);
+
+		float a = 0.75f;
+		System.out.println((int)a);
 	}
 }

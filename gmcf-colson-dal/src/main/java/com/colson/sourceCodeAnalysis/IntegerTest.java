@@ -1,6 +1,5 @@
 package com.colson.sourceCodeAnalysis;
 
-import com.sun.javafx.collections.MappingChange;
 import org.junit.Test;
 
 import java.util.Collection;

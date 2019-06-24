@@ -3,14 +3,16 @@ package com.colson.fileReader;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.colson.dal.FeeDto;
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+import org.junit.Test;
 
 import javax.annotation.Resource;
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 
 public class FileReader{
@@ -37,6 +39,58 @@ public class FileReader{
 
 	public void testMethod(){
 		System.out.println(feeDto.toString());
+	}
+
+
+	@Test
+	public void deleteDateFromFile(){
+		String deletePath = "D:\\fileReader\\浦发.sql";
+		String sourcePath = "D:\\fileReader\\GR_GRSFXX_201905_0.sql";
+		String outputPath = "D:\\fileReader\\GR_GRSFXX_201905_1.sql";
+
+		File deleteFile = new File(deletePath);
+		File sourceFile = new File(sourcePath);
+		File outputFile = new File(outputPath);
+
+
+		try(
+				FileOutputStream fos = new FileOutputStream(outputFile,true);
+				BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
+				) {
+
+
+			List<String> deleteList = Files.readAllLines(deleteFile.toPath(), Charset.forName("UTF-8"));
+
+			//将要删除的数据放入map中
+			Map<String,String> deleteMap = new HashMap<>();
+
+			deleteList.stream().forEach(n->deleteMap.put(n,n));
+
+			//获取要处理的数据
+			List<String> sourceList = Files.readAllLines(sourceFile.toPath(), Charset.forName("UTF-8"));
+
+			List<String> outputList = new ArrayList<>();
+
+			sourceList.stream().forEach(n->{
+				String[] split = n.split(",");
+				if (deleteMap.get(split[0])==null){
+					outputList.add(n);
+					System.out.println(n);
+				}
+			});
+			System.out.println(outputList.size());
+			for (String output : outputList) {
+				bw.write(output);
+				bw.newLine();
+				bw.flush();
+			}
+
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+
 	}
 
 	public static void getOutput(String sourceFilePath) throws Exception{
