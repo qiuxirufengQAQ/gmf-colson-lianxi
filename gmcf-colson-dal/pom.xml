@@ -160,6 +160,13 @@
             <version>4.1.0.Beta5</version>
         </dependency>
 
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.15</version>
+            <scope>runtime</scope>
+        </dependency>
+
     </dependencies>
 
 </project>
