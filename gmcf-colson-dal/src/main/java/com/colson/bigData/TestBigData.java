@@ -23,15 +23,15 @@ import static com.colson.bigData.PreRepayCurrentStage.preRepayCurrentStage;
 import static com.colson.bigData.PreRepayLostsStages.preRepayLostsStages;
 
 public class TestBigData {
-	public static Integer insertSize = 1000;
+	public static Integer insertSize = 1;
 
 	public static void main(String[] args) throws Exception {
 
 		//--------------------------------连接数据库----------------------
 		String driver="com.mysql.jdbc.Driver";
-		String url="jdbc:mysql://127.0.0.1:3306/db_gmcf_bec?useUnicode=true&characterEncoding=utf8";
+		String url="jdbc:mysql://10.163.0.33:3306/db_gmcf_bec?useUnicode=true&characterEncoding=utf8";
 		String user="root";
-		String password="root";
+		String password="123456";
 
 		//1、新建驱动
 		Driver driverInstance = (Driver) Class.forName(driver).newInstance();

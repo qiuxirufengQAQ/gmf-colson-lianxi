@@ -154,7 +154,7 @@ public class OverdueCurrentStage {
 		StringBuilder decSb;
 
 		String str = "','";
-		String preBecSql = "INSERT INTO `db_gmcf_bec`.`t_bec_bidding` (`f_bidding_no`, `f_bidding_short_no`, `f_bidding_status`, `f_loan_no`, `f_product_name`, `f_product_code`, `f_business_group_code`, `f_product_mirror_no`, `f_product_pricing_no`, `f_product_pricing_mirror_no`, `f_repayment_formula_no`, `f_repayment_formula_name`, `f_bidding_amount`, `f_currency_code`, `f_apply_datetime`, `f_audit_approve_datetime`, `f_full_bidding_datetime`, `f_settle_datetime`, `f_signing_datetime`, `f_deal_datetime`, `f_cancel_datetime`, `f_remain_right_capital_code`, `f_remain_right_owner_no`, `f_clearing_formula_no`, `f_profit_distribution_no`, `f_repayment_allocation_rule_no`, `f_derate_allocation_rule_no`, `f_master_borrower_no`, `f_master_borrower_type`, `f_master_borrower_name`, `f_year_rate`, `f_month_rate`, `f_day_rate`, `f_origin_total_stage`, `f_total_stage`, `f_current_stage`, `f_start_date`, `f_end_date`, `f_payout_bank_card_no`, `f_repayment_bank_card_no`, `f_cooperation_type`, `f_is_overdue`, `f_is_off_balance`, `f_cbd_start_date`, `f_continuous_overdue_stages`, `f_max_continuous_overdue_stages`, `f_age_account`, `f_channel_source`, `f_created_time`, `f_modified_time`, `f_next_must_pay_date`, `f_ext_current_stage`, `f_repayment_status_array`, `f_max_continuous_start_date`, `f_is_guaranteed`, `f_capital_codes`, `f_before_must_pay_date`) VALUES (";
+		String preBecSql = "INSERT INTO `db_gmcf_bec`.`t_bec_bidding` (`f_bidding_no`, `f_bidding_short_no`, `f_bidding_status`, `f_loan_no`, `f_product_name`, `f_product_code`, `f_business_group_code`, `f_product_mirror_no`, `f_product_pricing_no`, `f_product_pricing_mirror_no`, `f_repayment_formula_no`, `f_repayment_formula_name`, `f_bidding_amount`, `f_currency_code`, `f_apply_datetime`, `f_audit_approve_datetime`, `f_full_bidding_datetime`, `f_settle_datetime`, `f_signing_datetime`, `f_deal_datetime`, `f_cancel_datetime`, `f_remain_right_capital_code`, `f_remain_right_owner_no`, `f_clearing_formula_no`, `f_profit_distribution_no`, `f_repayment_allocation_rule_no`, `f_derate_allocation_rule_no`, `f_master_borrower_no`, `f_master_borrower_type`, `f_master_borrower_name`, `f_year_rate`, `f_month_rate`, `f_day_rate`, `f_origin_total_stage`, `f_total_stage`, `f_current_stage`, `f_start_date`, `f_end_date`, `f_payout_bank_card_no`, `f_repayment_bank_card_no`, `f_cooperation_type`, `f_is_overdue`, `f_is_off_balance`, `f_cbd_start_date`, `f_continuous_overdue_stages`, `f_max_continuous_overdue_stages`, `f_age_account`, `f_channel_source`, `f_created_time`, `f_modified_time`, `f_next_must_pay_date`, `f_ext_current_stage`, `f_repayment_status_array`, `f_max_continuous_start_date`, `f_is_guaranteed`) VALUES (";
 
 		String preInvSql = "INSERT INTO `db_gmcf_bec`.`t_bec_investor` (`f_bidding_no`, `f_capital_no`, `f_capital_code`, `f_capital_member_no`, `f_capital_mirror_no`, `f_capital_pricing_no`, `f_capital_pricing_mirror_no`, `f_capital_name`, `f_investment_ratio`, `f_investment_amount`, `f_investment_datetime`, `f_is_effective`) VALUES (";
 
@@ -221,9 +221,8 @@ public class OverdueCurrentStage {
 					.append(extCurrentStage).append(str)
 					.append(repaymentStatusArray).append(str)
 					.append(maxContinuousStartDate).append(str)
-					.append(isGuaranteed).append(str)
-					.append(capitalCodes).append(str)
-					.append(beforeMustPayDate).append("'").append(")");
+					.append(isGuaranteed).append("')");
+
 
 			dealLastMonthList.add(preBecSql + sb);
 			sb = new StringBuilder();
