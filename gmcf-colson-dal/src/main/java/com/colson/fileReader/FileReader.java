@@ -9,10 +9,7 @@ import javax.annotation.Resource;
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 
 public class FileReader{
@@ -90,6 +87,38 @@ public class FileReader{
 			e.printStackTrace();
 		}
 
+
+	}
+
+	//看文件中去重之后有多少数据
+	@Test
+	public void testHowManySingleData(){
+		String filePath = "D:\\a_update\\retain.sql";
+		File file = new File(filePath);
+
+		Set<String> set = new HashSet<>(240000);
+
+		String biddingNo = "";
+		try {
+			List<String> list = Files.readAllLines(file.toPath(), Charset.forName("UTF-8"));
+			for (int i = 0; i < list.size(); i++) {
+				String s = list.get(i);
+				String[] split = s.split("\\|");
+				biddingNo = split[3];
+				if (!biddingNo.contains("GMBEC")){
+					System.out.println(s);
+					System.out.println(list.get(i-1));
+				}
+				if (set.contains(biddingNo)){
+					System.out.println(biddingNo);
+				}
+				set.add(biddingNo);
+			}
+			System.out.println(set.size());
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 
 	}
 

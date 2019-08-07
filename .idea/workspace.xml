@@ -2,34 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1448812-ed0a-42a7-8826-42997cc14dd8" name="Default" comment="更新ArrayList和DateUtils">
-      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/idGen/IdGeneratorService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/erWeiMa/MakeErWeiMa.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/AdvanceRepayment.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/AdvanceRepayment.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/DealLastMonth.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/DealLastMonth.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/EarlySettle.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/EarlySettle.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/NomalRepayment.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/NomalRepayment.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueCurrentStage.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueCurrentStage.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueEarlySettle.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueEarlySettle.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueNotSettle.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueNotSettle.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayCurrentStage.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayCurrentStage.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayLostsStages.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayLostsStages.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayPartCurrentStage.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayPartCurrentStage.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayCurrentStage.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayCurrentStage.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayLostsStages.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayLostsStages.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/AdvanceRepayment.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/AdvanceRepayment.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/DealLastMonth.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/DealLastMonth.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/EarlySettle.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/EarlySettle.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/NomalRepayment.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/NomalRepayment.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueCurrentStage.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueCurrentStage.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueEarlySettle.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueEarlySettle.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueNotSettle.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueNotSettle.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueRepayCurrentStage.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueRepayCurrentStage.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueRepayLostsStages.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueRepayLostsStages.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueRepayPartCurrentStage.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/OverdueRepayPartCurrentStage.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/PreRepayCurrentStage.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/PreRepayCurrentStage.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/PreRepayLostsStages.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/PreRepayLostsStages.class" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/TestBigData.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/TestBigData.class" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" afterPath="$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" afterPath="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,6 +24,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
@@ -68,11 +55,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="TestBigData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java">
+      <file leaf-file-name="FileReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="38" column="43" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+            <state relative-caret-position="160">
+              <caret line="106" column="25" lean-forward="false" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUpdateReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrGrxxJcTransformer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3914">
+              <caret line="216" column="51" lean-forward="false" selection-start-line="216" selection-start-column="51" selection-end-line="216" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,91 +87,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OverdueCurrentStage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueCurrentStage.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="20" lean-forward="false" selection-start-line="223" selection-start-column="20" selection-end-line="223" selection-end-column="55" />
+            <state relative-caret-position="761">
+              <caret line="81" column="12" lean-forward="false" selection-start-line="81" selection-start-column="12" selection-end-line="90" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OverdueEarlySettle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueEarlySettle.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+            <state relative-caret-position="951">
+              <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OverdueNotSettle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueNotSettle.java">
+      <file leaf-file-name="FileEnum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+            <state relative-caret-position="38">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OverdueRepayCurrentStage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayCurrentStage.java">
+      <file leaf-file-name="DataDeal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/DataDeal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+            <state relative-caret-position="4427">
+              <caret line="291" column="37" lean-forward="false" selection-start-line="291" selection-start-column="37" selection-end-line="291" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OverdueRepayLostsStages.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayLostsStages.java">
+      <file leaf-file-name="MakeErWeiMa.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/erWeiMa/MakeErWeiMa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+            <state relative-caret-position="532">
+              <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QRCodeWriter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.0/core-3.3.0.jar!/com/google/zxing/qrcode/QRCodeWriter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PreRepayLostsStages.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayLostsStages.java">
+      <file leaf-file-name="BitMatrix.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.0/core-3.3.0.jar!/com/google/zxing/common/BitMatrix.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OverdueRepayPartCurrentStage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayPartCurrentStage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PreRepayCurrentStage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayCurrentStage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4047">
-              <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IdGeneratorService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/idGen/IdGeneratorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="-5988">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -196,6 +185,7 @@
       <find>pre</find>
       <find>preBecSql</find>
       <find>preB</find>
+      <find>StringUtils</find>
     </findStrings>
     <replaceStrings>
       <replace>Car2</replace>
@@ -212,8 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/TwoWayLinkedList.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Recursion.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Knapsack.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Combination.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/Node.java" />
@@ -234,7 +222,6 @@
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/designMode/singleMode/Car2.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/designMode/singleMode/XiaoMing3.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/designMode/singleMode/Car3.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/leetCode/Solution3.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/lambda/Apple.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/lambda/Predicate.java" />
@@ -246,8 +233,6 @@
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/test.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/lambda/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/Utils.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/AdvanceRepayment.java" />
@@ -263,6 +248,11 @@
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayCurrentStage.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayLostsStages.java" />
         <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/idGen/IdGeneratorService.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" />
+        <option value="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/erWeiMa/MakeErWeiMa.java" />
       </list>
     </option>
   </component>
@@ -317,10 +307,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="2391" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="width" value="2418" />
+    <option name="height" value="1318" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -362,7 +352,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -413,7 +403,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="colson" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="erWeiMa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmf-colson-lianxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmf-colson-lianxi" type="462c0819:PsiDirectoryNode" />
+              <item name="gmcf-colson-dal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="colson" type="462c0819:PsiDirectoryNode" />
+              <item name="renHangBaoSong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gmf-colson-lianxi" type="b2602c69:ProjectViewProjectNode" />
@@ -425,15 +425,11 @@
               <item name="colson" type="462c0819:PsiDirectoryNode" />
               <item name="renHangFileReader" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gmf-colson-lianxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
@@ -446,7 +442,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gmcf-intergration-script" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="SearchEverywhereHistoryKey" value="Map&#9;ACTION&#9;Maven.AddManagedFiles&#10;IllegalArgumentException&#9;PSI&#9;JAVA://java.lang.IllegalArgumentException&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java&#10;workspace.xml&#9;FILE&#9;file://D:/git/gmf-colson-lianxi/.idea/workspace.xml" />
@@ -474,13 +470,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestBigData">
+  <component name="RunManager" selected="Application.MakeErWeiMa">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="MakeErWeiMa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.colson.erWeiMa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.colson.erWeiMa.MakeErWeiMa" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gmcf-colson-dal" />
+      <envs />
     </configuration>
     <configuration name="TestBigData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -515,44 +530,19 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="LambdaTest.getDateTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileReader.testHowManySingleData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.colson.lambda.*" />
+          <option name="PATTERN" value="com.colson.fileReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="gmcf-colson-dal" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.colson.lambda" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.lambda.LambdaTest" />
-      <option name="METHOD_NAME" value="getDateTime" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="LambdaTest.testStringBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.colson.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="gmcf-colson-dal" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.colson.lambda" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.lambda.LambdaTest" />
-      <option name="METHOD_NAME" value="testStringBuilder" />
+      <option name="PACKAGE_NAME" value="com.colson.fileReader" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.fileReader.FileReader" />
+      <option name="METHOD_NAME" value="testHowManySingleData" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -688,19 +678,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LambdaTest.testStringBuilder" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LambdaTest.getDateTime" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestBigData" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestBigData.genSimpleUUID" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestBigData.test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestBigData" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestBigData.genSimpleUUID" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestBigData.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FileReader.testHowManySingleData" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MakeErWeiMa" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestBigData" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestBigData.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestBigData.genSimpleUUID" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LambdaTest.getDateTime" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LambdaTest.testStringBuilder" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MakeErWeiMa" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FileReader.testHowManySingleData" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestBigData" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestBigData.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestBigData.genSimpleUUID" />
       </list>
     </recent_temporary>
   </component>
@@ -831,7 +821,11 @@
       <workItem from="1563950505293" duration="1728000" />
       <workItem from="1564104185469" duration="588000" />
       <workItem from="1564451329589" duration="875000" />
-      <workItem from="1564541946631" duration="595000" />
+      <workItem from="1564541946631" duration="708000" />
+      <workItem from="1564642254767" duration="507000" />
+      <workItem from="1564712423725" duration="1373000" />
+      <workItem from="1564971374611" duration="5225000" />
+      <workItem from="1565161822338" duration="2803000" />
     </task>
     <task id="LOCAL-00001" summary="更新ArrayList和DateUtils">
       <created>1544149278903</created>
@@ -844,39 +838,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileUpdateReader_retainData - 2019.07.08 at 16h 06m 26s.xml">
-      <configuration name="FileUpdateReader.retainData" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 05m 32s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest_getDateTime - 2019.07.09 at 16h 05m 24s.xml">
-      <configuration name="LambdaTest.getDateTime" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 16m 13s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest_getDateTime - 2019.07.09 at 16h 10m 43s.xml">
-      <configuration name="LambdaTest.getDateTime" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 22m 24s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest_testSorted - 2019.07.09 at 14h 38m 50s.xml">
-      <configuration name="LambdaTest.testSorted" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 29m 51s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest_testStringBuilder - 2019.07.09 at 15h 09m 46s.xml">
-      <configuration name="LambdaTest.testStringBuilder" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 30m 43s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBigData_genSimpleUUID - 2019.07.17 at 10h 29m 27s.xml">
-      <configuration name="TestBigData.genSimpleUUID" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 31m 08s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBigData_test - 2019.07.17 at 11h 10m 45s.xml">
-      <configuration name="TestBigData.test" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 33m 08s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBigData_test - 2019.07.18 at 10h 29m 03s.xml">
-      <configuration name="TestBigData.test" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 37m 16s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBigData_test - 2019.07.18 at 10h 29m 17s.xml">
-      <configuration name="TestBigData.test" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 37m 47s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBigData_test - 2019.07.18 at 10h 29m 27s.xml">
-      <configuration name="TestBigData.test" configurationId="JUnit" />
+    <history-entry file="FileReader_testHowManySingleData - 2019.08.05 at 15h 38m 06s.xml">
+      <configuration name="FileReader.testHowManySingleData" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="466642000" />
+    <option name="totallyTimeSpent" value="476663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -888,36 +882,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32753888" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31015554" sideWeight="0.50171673" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30862698" sideWeight="0.49828327" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284538" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28362307" sideWeight="0.49828327" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38031593" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3108108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20515022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22810811" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25405404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47392496" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47387606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Byte Code Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="848" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32753888" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928312" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="2491" y="91" width="2218" height="1118" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1026,12 +1019,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java</url>
-          <line>81</line>
+          <line>78</line>
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="84" />
+      <option name="time" value="87" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1040,48 +1033,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="67" column="51" lean-forward="true" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="6510" column="18" lean-forward="true" selection-start-line="6510" selection-start-column="18" selection-end-line="6510" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/sourceCodeAnalysis/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/DataDeal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4427">
-          <caret line="291" column="37" lean-forward="false" selection-start-line="291" selection-start-column="37" selection-end-line="291" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="48" column="15" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -1181,6 +1132,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2185">
           <caret line="152" column="33" lean-forward="false" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="33" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="false" />
+            <element signature="e#4714#4715#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1199,43 +1154,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/test.java" />
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2508">
-          <caret line="146" column="19" lean-forward="false" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="91" column="61" lean-forward="false" selection-start-line="91" selection-start-column="61" selection-end-line="91" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/lambda/AppleHeavyWeightPredicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3135">
-          <caret line="165" column="37" lean-forward="false" selection-start-line="165" selection-start-column="37" selection-end-line="165" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1285,6 +1207,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1995">
           <caret line="134" column="36" lean-forward="false" selection-start-line="134" selection-start-column="36" selection-end-line="134" selection-end-column="36" />
+          <folding>
+            <element signature="e#4161#4162#0" expanded="false" />
+            <element signature="e#4211#4212#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1334,7 +1260,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4047">
           <caret line="223" column="20" lean-forward="false" selection-start-line="223" selection-start-column="20" selection-end-line="223" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,7 +1267,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4047">
           <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1350,15 +1274,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4047">
           <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayCurrentStage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4047">
-          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1366,23 +1281,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4047">
           <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayPartCurrentStage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4047">
-          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/PreRepayCurrentStage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4047">
+        <state relative-caret-position="655">
           <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1390,25 +1295,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4047">
           <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="0">
           <caret line="38" column="43" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/idGen/IdGeneratorService.java" />
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayPartCurrentStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="187" column="12" lean-forward="true" selection-start-line="187" selection-start-column="12" selection-end-line="187" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/OverdueRepayCurrentStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4047">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/DataDeal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4427">
+          <caret line="291" column="37" lean-forward="false" selection-start-line="291" selection-start-column="37" selection-end-line="291" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3914">
+          <caret line="216" column="51" lean-forward="false" selection-start-line="216" selection-start-column="51" selection-end-line="216" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/idGen/IdGeneratorService.java">
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="1425">
+          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="106" column="25" lean-forward="false" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="81" column="12" lean-forward="false" selection-start-line="81" selection-start-column="12" selection-end-line="90" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="951">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.0/core-3.3.0.jar!/com/google/zxing/qrcode/QRCodeWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/zxing/core/3.3.0/core-3.3.0.jar!/com/google/zxing/common/BitMatrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5988">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/erWeiMa/MakeErWeiMa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
