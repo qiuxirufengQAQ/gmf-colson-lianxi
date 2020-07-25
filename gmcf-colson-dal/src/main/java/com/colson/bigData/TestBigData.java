@@ -23,13 +23,13 @@ import static com.colson.bigData.PreRepayCurrentStage.preRepayCurrentStage;
 import static com.colson.bigData.PreRepayLostsStages.preRepayLostsStages;
 
 public class TestBigData {
-	public static Integer insertSize = 1;
+	public static Integer insertSize = 100;
 
 	public static void main(String[] args) throws Exception {
 
 		//--------------------------------连接数据库----------------------
 		String driver="com.mysql.jdbc.Driver";
-		String url="jdbc:mysql://10.163.0.33:3306/db_gmcf_bec?useUnicode=true&characterEncoding=utf8";
+		String url="jdbc:mysql://10.159.41.19:3306/db_gmcf_bec?useUnicode=true&characterEncoding=utf8";
 		String user="root";
 		String password="123456";
 
@@ -53,7 +53,7 @@ public class TestBigData {
 
 		//--------------------------十万条数据-------------
 		//设置外循环，总提交事务的次数
-		List<String> workList = new ArrayList<>(1000000);
+		List<String> workList = new ArrayList<>(1000);
 
 		List<String> dealLastMonthList = DealLastMonth.dealLastMonth();
 		List<String> nomalRepaymentList = nomalRepayment();
@@ -77,12 +77,12 @@ public class TestBigData {
 		workList.addAll(preRepayLostsStagesList);
 		workList.addAll(overdueCurrentStageList);
 		workList.addAll(earlySettleList);
-		workList.addAll(overdueRepayCurrentStageList);
-		workList.addAll(overdueRepayPartCurrentStageList);
-		workList.addAll(overdueRepayLostsStagesList);
-		workList.addAll(overdueEarlySettleList);
-		workList.addAll(overdueNotSettleList);
-		System.out.println(workList.size());
+//		workList.addAll(overdueRepayCurrentStageList);
+//		workList.addAll(overdueRepayPartCurrentStageList);
+//		workList.addAll(overdueRepayLostsStagesList);
+//		workList.addAll(overdueEarlySettleList);
+//		workList.addAll(overdueNotSettleList);
+//		System.out.println(workList.size());
 
 		String sql;
 		for(int i=0;i<workList.size();i++){

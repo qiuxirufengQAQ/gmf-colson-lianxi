@@ -6,6 +6,7 @@ import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
+import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.message.BasicNameValuePair;
@@ -15,6 +16,7 @@ import org.junit.Test;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,9 +24,13 @@ public class HttpClientService {
 
 
 	@Test
-	public void doGet() {
+	public void doGet() throws URISyntaxException {
 		CloseableHttpClient client = HttpClientBuilder.create().build();
-		HttpGet get = new HttpGet("http://www.thepaper.cn");
+		List<NameValuePair> nvps = new ArrayList<NameValuePair>();
+		nvps.add(new BasicNameValuePair("scqymc","213"));
+		URIBuilder builder = new URIBuilder("http://vdts.ivdc.org.cn:8081/cx/SysjkWsPort?wsdl");
+		builder.setParameters(nvps);
+		HttpGet get = new HttpGet("http://vdts.ivdc.org.cn:8081/cx/SysjkWsPort?getJksyInfo");
 		try { // 很奇怪，使用CloseableHttpClient来请求澎湃新闻的首页，GTE请求也必须加上下面这个Header，但是使用HTTPClient则不需要 get.addHeader("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36");
 			HttpResponse response = client.execute(get);
 			String res = EntityUtils.toString(response.getEntity());

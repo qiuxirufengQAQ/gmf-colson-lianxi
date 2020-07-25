@@ -8,6 +8,7 @@ import org.junit.Test;
 import javax.annotation.Resource;
 import java.io.*;
 import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.util.*;
 
@@ -90,25 +91,20 @@ public class FileReader{
 
 	}
 
+
 	//看文件中去重之后有多少数据
 	@Test
 	public void testHowManySingleData(){
-		String filePath = "D:\\a_update\\retain.sql";
+		String filePath = "D:\\国美金融\\项目\\COF备忘录\\人行\\22万人行数据问题\\789月份数据.sql";
 		File file = new File(filePath);
 
 		Set<String> set = new HashSet<>(240000);
 
 		String biddingNo = "";
 		try {
-			List<String> list = Files.readAllLines(file.toPath(), Charset.forName("UTF-8"));
+			List<String> list = Files.readAllLines(file.toPath(), StandardCharsets.UTF_8);
 			for (int i = 0; i < list.size(); i++) {
-				String s = list.get(i);
-				String[] split = s.split("\\|");
-				biddingNo = split[3];
-				if (!biddingNo.contains("GMBEC")){
-					System.out.println(s);
-					System.out.println(list.get(i-1));
-				}
+				biddingNo =list.get(i);
 				if (set.contains(biddingNo)){
 					System.out.println(biddingNo);
 				}

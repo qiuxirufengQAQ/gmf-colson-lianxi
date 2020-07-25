@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1448812-ed0a-42a7-8826-42997cc14dd8" name="Default" comment="更新ArrayList和DateUtils">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/CollectionTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/LinkedListTest.java" afterDir="false" />
@@ -46,6 +47,32 @@
       <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/nowCoder/code.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/nowCoder/code.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowCoder/code.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowCoder/code.class" afterDir="false" />
     </list>
+=======
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrsfxxTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrJzdzTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrTsjyTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrZyxxTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/tianJinBaoSong/TianJinProjectApprovalTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/tool/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/tool/TextClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/EarlySettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/EarlySettle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/http/HttpClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/http/HttpClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/EarlySettle.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/EarlySettle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/TestBigData.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/TestBigData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/http/HttpClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/http/HttpClientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangBaoSong/GrGrxxJcTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangBaoSong/GrGrxxJcTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangFileReader/FileUpdateReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangFileReader/FileUpdateReader.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +133,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="1ezm0XdLCxnib6TCCWk8LfmkoYv" />
+=======
+  <component name="ProjectId" id="1SgAgnrGnvupKQNZ58V2E7yev4b" />
+>>>>>>> Stashed changes
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -132,6 +163,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -141,10 +173,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+>>>>>>> Stashed changes
     <property name="SearchEverywhereHistoryKey" value="Map&#9;ACTION&#9;Maven.AddManagedFiles&#10;IllegalArgumentException&#9;PSI&#9;JAVA://java.lang.IllegalArgumentException&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java&#10;workspace.xml&#9;FILE&#9;file://D:/git/gmf-colson-lianxi/.idea/workspace.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git/gmcf-omc" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -154,6 +191,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gmcf-omc" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+>>>>>>> Stashed changes
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -163,6 +204,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\git\gmf-colson-lianxi\gmcf-colson-dal\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.colson.tianJinBaoSong" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\git\gmf-colson-lianxi\gmcf-colson-dal\src\main\resources\spring" />
       <recent name="D:\git\gmf-colson-lianxi\gmcf-colson-dal\src\main\java\com\colson\fileReader" />
@@ -170,41 +214,58 @@
       <recent name="D:\git\gmf-colson-lianxi\src\main\java" />
     </key>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.code">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
+=======
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TianJinProjectApprovalTransformer">
+    <configuration default="true" type="Applet">
+>>>>>>> Stashed changes
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="MakeErWeiMa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.colson.erWeiMa.MakeErWeiMa" />
+=======
+    <configuration name="TianJinProjectApprovalTransformer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.colson.tianJinBaoSong.TianJinProjectApprovalTransformer" />
+>>>>>>> Stashed changes
       <module name="gmcf-colson-dal" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.colson.erWeiMa.*" />
+          <option name="PATTERN" value="com.colson.tianJinBaoSong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+<<<<<<< Updated upstream
     </configuration>
     <configuration name="TestBigData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.colson.bigData.TestBigData" />
       <module name="gmcf-colson-dal" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.colson.bigData.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+=======
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -212,6 +273,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FileUpdateReader.getCommonFromTwoFiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmcf-colson-dal" />
+>>>>>>> Stashed changes
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+<<<<<<< Updated upstream
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+=======
+      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
+      <option name="METHOD_NAME" value="getCommonFromTwoFiles" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+>>>>>>> Stashed changes
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< Updated upstream
     <configuration name="code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.colson.nowCoder.code" />
       <module name="gmcf-colson-dal" />
@@ -222,10 +311,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration name="FileUpdateReader.testContainContent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmcf-colson-dal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
+      <option name="METHOD_NAME" value="testContainContent" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+>>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="CollectionTest.testArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gmcf-colson-dal" />
       <extension name="coverage">
@@ -237,12 +342,26 @@
       <option name="PACKAGE_NAME" value="com.colson.mianshi" />
       <option name="MAIN_CLASS_NAME" value="com.colson.mianshi.CollectionTest" />
       <option name="METHOD_NAME" value="testArrayList" />
+=======
+    <configuration name="FileUpdateReader.testCurrentOverdueStage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmcf-colson-dal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
+      <option name="METHOD_NAME" value="testCurrentOverdueStage" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="FileReader.testHowManySingleData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gmcf-colson-dal" />
       <extension name="coverage">
@@ -254,6 +373,19 @@
       <option name="PACKAGE_NAME" value="com.colson.fileReader" />
       <option name="MAIN_CLASS_NAME" value="com.colson.fileReader.FileReader" />
       <option name="METHOD_NAME" value="testHowManySingleData" />
+=======
+    <configuration name="FileUpdateReader.update24Months" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmcf-colson-dal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
+      <option name="METHOD_NAME" value="update24Months" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -267,6 +399,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration default="true" type="JetRunConfigurationType">
       <module name="gmf-colson-lianxi" />
       <option name="VM_PARAMETERS" />
@@ -280,6 +413,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> Stashed changes
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -299,6 +434,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< Updated upstream
       <item itemvalue="Application.TestBigData" />
       <item itemvalue="Application.MakeErWeiMa" />
       <item itemvalue="Application.code" />
@@ -312,6 +448,21 @@
         <item itemvalue="Application.MakeErWeiMa" />
         <item itemvalue="JUnit.FileReader.testHowManySingleData" />
         <item itemvalue="Application.TestBigData" />
+=======
+      <item itemvalue="Application.TianJinProjectApprovalTransformer" />
+      <item itemvalue="JUnit.FileUpdateReader.testCurrentOverdueStage" />
+      <item itemvalue="JUnit.FileUpdateReader.update24Months" />
+      <item itemvalue="JUnit.FileUpdateReader.testContainContent" />
+      <item itemvalue="JUnit.FileUpdateReader.getCommonFromTwoFiles" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TianJinProjectApprovalTransformer" />
+        <item itemvalue="JUnit.FileUpdateReader.getCommonFromTwoFiles" />
+        <item itemvalue="JUnit.FileUpdateReader.testContainContent" />
+        <item itemvalue="JUnit.FileUpdateReader.testCurrentOverdueStage" />
+        <item itemvalue="JUnit.FileUpdateReader.update24Months" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -444,8 +595,68 @@
       <workItem from="1564712423725" duration="1373000" />
       <workItem from="1564971374611" duration="5225000" />
       <workItem from="1565161822338" duration="2803000" />
+<<<<<<< Updated upstream
       <workItem from="1595332576118" duration="8653000" />
       <workItem from="1595492163457" duration="12227000" />
+=======
+      <workItem from="1571975015896" duration="933000" />
+      <workItem from="1572241481923" duration="2849000" />
+      <workItem from="1573027994563" duration="1117000" />
+      <workItem from="1573607104167" duration="13607000" />
+      <workItem from="1573695911027" duration="6364000" />
+      <workItem from="1574041178886" duration="11418000" />
+      <workItem from="1574229450448" duration="2638000" />
+      <workItem from="1574241806073" duration="634000" />
+      <workItem from="1574303638742" duration="4000" />
+      <workItem from="1574303733514" duration="42000" />
+      <workItem from="1574303797407" duration="94000" />
+      <workItem from="1574303956493" duration="11283000" />
+      <workItem from="1574417126614" duration="35000" />
+      <workItem from="1574665859159" duration="447000" />
+      <workItem from="1574670718189" duration="1340000" />
+      <workItem from="1574731833924" duration="18000" />
+      <workItem from="1574835439946" duration="5497000" />
+      <workItem from="1574923426879" duration="2660000" />
+      <workItem from="1574929960036" duration="10674000" />
+      <workItem from="1575007943770" duration="1491000" />
+      <workItem from="1575254243841" duration="10609000" />
+      <workItem from="1575338414772" duration="20000" />
+      <workItem from="1575338983097" duration="1926000" />
+      <workItem from="1575428395890" duration="10114000" />
+      <workItem from="1575515545756" duration="17000" />
+      <workItem from="1575515883577" duration="1931000" />
+      <workItem from="1575531918841" duration="2069000" />
+      <workItem from="1575603152230" duration="3825000" />
+      <workItem from="1575858843261" duration="3133000" />
+      <workItem from="1575960996723" duration="7213000" />
+      <workItem from="1576069408499" duration="2853000" />
+      <workItem from="1576143931364" duration="762000" />
+      <workItem from="1576217219190" duration="1717000" />
+      <workItem from="1576568128080" duration="1292000" />
+      <workItem from="1577111520426" duration="2033000" />
+      <workItem from="1577166584565" duration="10564000" />
+      <workItem from="1577262188043" duration="79000" />
+      <workItem from="1577343189021" duration="1256000" />
+      <workItem from="1577676160758" duration="19000" />
+      <workItem from="1578274967108" duration="27757000" />
+      <workItem from="1578475086376" duration="6598000" />
+      <workItem from="1578557930060" duration="1572000" />
+      <workItem from="1578625262579" duration="2000" />
+      <workItem from="1578625415064" duration="1000" />
+      <workItem from="1578625443992" duration="15000" />
+      <workItem from="1578625485323" duration="12000" />
+      <workItem from="1578625525510" duration="68000" />
+      <workItem from="1578625668069" duration="88000" />
+      <workItem from="1578625810437" duration="911000" />
+      <workItem from="1580710799091" duration="7384000" />
+      <workItem from="1581386257464" duration="24000" />
+      <workItem from="1581583228645" duration="3560000" />
+      <workItem from="1582597588719" duration="150000" />
+      <workItem from="1584934053563" duration="842000" />
+      <workItem from="1584948169325" duration="31000" />
+      <workItem from="1588835203777" duration="1535000" />
+      <workItem from="1589020676502" duration="607000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="更新ArrayList和DateUtils">
       <created>1544149278903</created>
@@ -467,7 +678,24 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
+<<<<<<< Updated upstream
     <option name="version" value="2" />
+=======
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> Stashed changes
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新ArrayList和DateUtils" />
@@ -583,6 +811,7 @@
           <line>21</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
+<<<<<<< Updated upstream
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java</url>
           <line>78</line>
@@ -613,6 +842,8 @@
           <line>20</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
+=======
+>>>>>>> Stashed changes
       </breakpoints>
     </breakpoint-manager>
   </component>

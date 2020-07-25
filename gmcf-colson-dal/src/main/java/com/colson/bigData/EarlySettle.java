@@ -23,7 +23,7 @@ public class EarlySettle {
 
 		//bec数据
 		String biddingNo = "gmcfbec";
-		Integer shortNo = 1030000000;
+		Integer shortNo = 1340000000;
 		Integer biddingStatus = 3;
 		String loanNo = "gmcfloc";
 		String productName = "国美易卡-额度产品";
@@ -57,7 +57,7 @@ public class EarlySettle {
 		BigDecimal dayRate = new BigDecimal(0.000220);
 		Integer originTotalStage = 12;
 		Integer totalStage = 12;
-		Integer currentStage = 3;
+		Integer currentStage = 8;
 		String startDate = "2019-03-15 00:00:00";
 		String endDate = "2020-03-15 00:00:00";
 		String payoutBankCardNo = "f2c1051968154b359486ef4f8d5e2c40";
@@ -72,9 +72,9 @@ public class EarlySettle {
 		String channelSource = "10000000";
 		String createdTime = "DEFAULT";
 		String modifiedTime = "DEFAULT";
-		String nextMustPayDate = "2019-08-15 11:30:45";
-		Integer extCurrentStage = 4;
-		String repaymentStatusArray = "*NNCNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN";
+		String nextMustPayDate = "2019-11-15 11:30:45";
+		Integer extCurrentStage = 8;
+		String repaymentStatusArray = "*NNNNNNNNCNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN";
 		String maxContinuousStartDate = nullTime;
 		Integer isGuaranteed = 0;
 		String capitalCodes = "0000,C5001";
@@ -138,12 +138,12 @@ public class EarlySettle {
 		//初始化ofc表数据
 		String userId = "a8399587b89848b8844fe6b24549b347";
 		String userEntryJson = "{\"extend\":{\"EXTEND_USER_TYPE\":\"B\",\"EXTEND_NAME\":\"李盟珍\",\"EXTEND_51GJJ_ORDERSN\":\"\",\"EXTEND_ID_TYPE\":\"身份证\",\"EXTEND_PRODUCT_RATE\":\"A\",\"EXTEND_COMPANY_PROVINCE_CODE\":\"110000\",\"EXTEND_CONCACT_TWO_NAME\":\"Hh\",\"EXTEND_ID_NO\":\"130723198801142542\",\"EXTEND_COMPANY_AREA_CODE\":\"110105\",\"EXTEND_WORK_YEAR\":\"\",\"EXTEND_WORK_START_TIME\":\"\",\"EXTEND_CONCACT_TWO_RELATION\":\"C\",\"EXTEND_MOBILE_NO\":\"18843211101\",\"EXTEND_COMPANY_CONUTY_NAME\":\"国美\",\"EXTEND_COMPANY_ADDRESS\":\"北京市北京市市辖区朝阳区\",\"EXTEND_CONCACT_ONE_RELATION\":\"W\",\"EXTEND_BANK_MOBILE\":\"18101336401\",\"EXTEND_COMPANY_CITY_CODE\":\"110100\",\"EXTEND_RESIDENTIAL_ADDRESS\":\"北京市北京市市辖区东城区鹏润\",\"EXTEND_CONCACT_ONE_MOBILE\":\"13255555555\",\"EXTEND_CERTIFICATE_RESIDENCE_ADDRESS\":\"天津市红桥区勤俭道202号\",\"EXTEND_ZHIMA_CREDIT\":\"0\",\"EXTEND_GENDER\":\"O\",\"EXTEND_ACTIVE_FROM\":\"GMYKBC\",\"EXTEND_CONCACT_ONE_NAME\":\"Jfv\",\"EXTEND_CONCACT_TWO_MOBILE\":\"13562222222\",\"EXTEND_BIRTHDAY\":\"\",\"EXTEND_BANK_CARD_NO\":\"6212260200030140000\"},\"entry\":{\"ENTRY_ABODE_COMPANY_NATURE\":\"L\",\"ENTRY_LINKMAN1_RELATION\":\"W\",\"ENTRY_EMPLOY_START_TIME\":\"\",\"ENTRY_COMPANY_CITY_NAME\":\"北京市市辖区\",\"ENTRY_LINKMAN2_NAME\":\"Hh\",\"ENTRY_COMPANY_CITY\":\"110100\",\"ENTRY_COMPANY_COUNTY_NAME\":\"朝阳区\",\"ENTRY_ABODE_COUNTY\":\"110101\",\"ENTRY_COMPANY_COUNTY\":\"110105\",\"ENTRY_LINKMAN2_RELATION\":\"C\",\"ENTRY_LINKMAN1_PHONE\":\"13255555555\",\"ENTRY_LINKMAN2_RELATION_LEVER\":\"2\",\"ENTRY_MARITAL_STATUS\":\"9\",\"ENTRY_PHONE_OPERATOR_THIRD\":\"3\",\"ENTRY_LINKMAN1_RELATION_LEVER\":\"1\",\"ENTRY_ABODE_CITY_NAME\":\"北京市市辖区\",\"ENTRY_TAOBAO_THIRD\":\"3\",\"ENTRY_COMPANY_TELL\":\"\",\"ENTRY_COMPANY_NAME\":\"国美\",\"ENTRY_LINKMAN2_PHONE\":\"13562222222\",\"ENTRY_ABODE_DETAIL\":\"鹏润\",\"ENTRY_ABODE_CITY\":\"110100\",\"ENTRY_ABODE_PROVINCE_NAME\":\"北京市\",\"ENTRY_ABODE_PROVINCE\":\"110000\",\"ENTRY_COMPANY_TYPE\":\"Q\",\"ENTRY_LINKMAN1_NAME\":\"Jfv\",\"ENTRY_ABODE_COUNTY_NAME\":\"东城区\",\"ENTRY_EDUCATION_BACKGROUND\":\"university\",\"ENTRY_COMPANY_PROVINCE_NAME\":\"北京市\",\"ENTRY_GJJ_THIRD\":\"3\",\"ENTRY_COMPANY_PROVINCE\":\"110000\"},\"initData\":{\"appTerm\":12,\"gpsCity\":\"北京市市辖区\",\"gpsAreaCode\":\"110105\",\"gpsLongitude\":\"116.466574\",\"app_version\":\"3.1.5\",\"buyFlag\":\"0\",\"pdType\":\"T\",\"reqClientType\":\"APP\",\"equipmentId\":\"868800027703309\",\"gpsStateCode\":\"110000\",\"appAmount\":1111,\"loanPurpose\":\"PN04\",\"channelSource\":\"10000000\",\"productId\":\"5551\",\"bankCardNo\":\"6212260200030140000\",\"ip\":\"10.134.39.13\",\"verifyMethod\":0,\"terminalType\":\"APP\",\"market\":\"icash_main\",\"loanTerms\":\"12\",\"gpsCityCode\":\"110100\",\"fromSource\":\"icash_main\",\"verifyType\":\"Y\",\"loanType\":\"004\",\"insurerCode\":\"01\",\"bankCardId\":\"f2c1051968154b359486ef4f8d5e2c40\",\"loanMoney\":\"1111\",\"gpsLatitude\":\"39.958729\",\"gpsState\":\"北京市\",\"isReapplication\":0,\"loanUse\":\"PN04\",\"verifyCode\":\"111864\",\"appPlatform\":\"Android\",\"mobile\":\"18843211101\",\"userId\":\"a8399587b89848b8844fe6b24549b347\",\"app_platform\":\"Android\",\"isMonitor\":\"O\",\"tongdun\":\"eyJvcyI6ImFuZHJvaWQiLCJ2ZXJzaW9uIjoiMy4wLjQiLCJwYWNrYWdlcyI6ImNvbS5nb21lanIuaWNhc2hfMy4xLjUiLCJwcm9maWxlX3RpbWUiOjUxMCwiaW50ZXJ2YWxfdGltZSI6MjQ2MDk0NTcsInRva2VuX2lkIjoidWJQayt5WHgzZllBSDQwSnlaeUdUSElrS0ZGZGVYYk02Ym9lRnhheG8rRjJBV2U2ZjJ6aWtBREJ5RnFFQnNURmdXVENaTTZkeVwvdWxUcXNOUnl6bzJ3PT0ifQ==\",\"applyNo\":\"GMLOC19051614212001006\",\"app_devicetype\":\"icash_main\"}}";
-		Integer linkmanId = 1000000000;
+		Integer linkmanId = 2000000000;
 		//		String customerId = "null";
 		//		String saCode = "null";
 		//		String loanApplyNo = "null";
 
-		Integer shortDebitNo = 1000000000;
+		Integer shortDebitNo = 2001000000;
 
 		StringBuilder sb = new StringBuilder();
 		StringBuilder gomeInvestor = new StringBuilder();
@@ -265,7 +265,7 @@ public class EarlySettle {
 
 			//新增dec数据
 			int j = 0;
-			for (;j<2;j++){
+			for (;j<7;j++){
 				decSb = new StringBuilder();
 				valueDate = addOneMonth(valueDate);
 				dueDate = addOneMonth(dueDate);
@@ -353,8 +353,8 @@ public class EarlySettle {
 				dealLastMonthList.add(preDecSql+decSb);
 			}
 			//增加一条提前结清的数据
-			mustPayDate = "2019-06-10 00:00:00";
-			actualPayDate = "2019-06-10 00:00:00";
+			mustPayDate = "2019-10-6 00:00:00";
+			actualPayDate = "2019-10-6 00:00:00";
 			mustPayInterest = new BigDecimal(0);
 			mustPayPrincipal = new BigDecimal(10000);
 			actualPayPrincipal = new BigDecimal(10000);
