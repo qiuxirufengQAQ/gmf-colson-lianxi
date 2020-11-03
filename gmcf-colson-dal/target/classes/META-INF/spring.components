@@ -1,0 +1,5 @@
+#
+#Tue Nov 03 14:45:58 CST 2020
+com.colson.ActiveMQ.spring.SpringMQ_Produce=org.springframework.stereotype.Component
+com.colson.ActiveMQ.spring.SpringMQ_Consumer=org.springframework.stereotype.Component
+com.colson.ActiveMQ.spring.MyMessageListener=org.springframework.stereotype.Component

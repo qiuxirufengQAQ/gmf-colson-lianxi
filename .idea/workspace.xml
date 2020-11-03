@@ -1,138 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1448812-ed0a-42a7-8826-42997cc14dd8" name="Default" comment="更新ArrayList和DateUtils">
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/LinkedHashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/TreeMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mybatis/SqlUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/redis/JedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/redis/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/TianJinProjectApprovalTransformer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/nowcoder/Segmentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/nowcoder/TestNowCoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/META-INF/gmcf-colson-dal.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowcoder/Segmentation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowcoder/TestNowCoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_40.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_40.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jai_imageio_jai_imageio_core_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_03.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_03.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_0_Beta5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_0_Beta5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_0_Beta5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_0_Beta5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_0_Beta5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_0_Beta5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_0_Beta5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_0_Beta5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_0_Beta5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_0_Beta5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_0_Beta5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_0_Beta5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_indexer_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_indexer_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
+    <list default="true" id="9271df96-80ca-4810-a8f9-7dad519f36c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jms_jms_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_all_5_15_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_15_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_15_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_jms_pool_5_15_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_15_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_pool_5_15_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_spring_5_15_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_0_1B_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_spring_3_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/db-1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/db.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/db.redo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activemq-data/localhost/KahaDB/lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/EmbedBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/JmsConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/JmsConsumerTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/JmsProduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/JmsProduceTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/spring/MyMessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/spring/SpringMQ_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/ActiveMQ/spring/SpringMQ_Produce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/TranslateTextAndExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/uas/AutoInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/uas/PasswordUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/EmbedBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/JmsConsumer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/JmsConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/JmsConsumerTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/JmsProduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/JmsProduceTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/spring/MyMessageListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/spring/SpringMQ_Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/ActiveMQ/spring/SpringMQ_Produce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/TranslateTextAndExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/mybatis/SqlUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/uas/AutoInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/uas/PasswordUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/gmcf-colson-dal-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/gmcf-colson-dal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/nowCoder/code.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/nowcoder/code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/thread/ChuJu.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/thread/ChuJu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/META-INF/gmcf-colson-dal.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowcoder/Segmentation.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowCoder/Segmentation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowcoder/TestNowCoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/nowCoder/TestNowCoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/thread/ChuJu.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/thread/ChuJu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/excel/~$参数表.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-=======
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrsfxxTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrJzdzTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrTsjyTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrZyxxTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/tianJinBaoSong/TianJinProjectApprovalTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/tool/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/tool/TextClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/EarlySettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/EarlySettle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/bigData/TestBigData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/http/HttpClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/http/HttpClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangBaoSong/GrGrxxJcTransformer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/renHangFileReader/FileUpdateReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/EarlySettle.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/EarlySettle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/TestBigData.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/bigData/TestBigData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/fileReader/FileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/http/HttpClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/http/HttpClientService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangBaoSong/GrGrxxJcTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangBaoSong/GrGrxxJcTransformer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangFileReader/FileUpdateReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmcf-colson-dal/target/classes/com/colson/renHangFileReader/FileUpdateReader.class" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
->>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="Tag Library Descriptor" />
-        <option value="FxmlFile" />
-        <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -140,984 +109,286 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
+  <component name="ProjectId" id="1gFcVDsyf1wXVsXw0FZvp8iPdxf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.3.9" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-<<<<<<< Updated upstream
-  <component name="ProjectId" id="1ezm0XdLCxnib6TCCWk8LfmkoYv" />
-=======
-  <component name="ProjectId" id="1SgAgnrGnvupKQNZ58V2E7yev4b" />
->>>>>>> Stashed changes
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>ImportsJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>UNUSED_IMPORT</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-<<<<<<< Updated upstream
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-=======
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
->>>>>>> Stashed changes
-    <property name="SearchEverywhereHistoryKey" value="Map&#9;ACTION&#9;Maven.AddManagedFiles&#10;IllegalArgumentException&#9;PSI&#9;JAVA://java.lang.IllegalArgumentException&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Stack.java&#10;workspace.xml&#9;FILE&#9;file://D:/git/gmf-colson-lianxi/.idea/workspace.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git/gmcf-omc" />
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git/gmcf-omc/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gmcf-omc" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
->>>>>>> Stashed changes
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.colson.redis" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.colson.tianJinBaoSong" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.colson.tianJinBaoSong" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git2\gmf-colson-lianxi\gmcf-colson-dal\src\main\resources" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\git\gmf-colson-lianxi\gmcf-colson-dal\src\main\resources\spring" />
-      <recent name="D:\git\gmf-colson-lianxi\gmcf-colson-dal\src\main\java\com\colson\fileReader" />
-      <recent name="D:\git\gmf-colson-lianxi\gmcf-colson-dal\src\excel" />
-      <recent name="D:\git\gmf-colson-lianxi\src\main\java" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\git\gmf-colson-lianxi\gmcf-colson-dal\src\main\resources" />
+      <recent name="D:\git2\gmf-colson-lianxi\gmcf-colson-dal\src\main\java\com\colson\uas" />
     </key>
   </component>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.JedisTest">
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-  <component name="RunManager" selected="Application.code">
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-=======
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TianJinProjectApprovalTransformer">
-    <configuration default="true" type="Applet">
->>>>>>> Stashed changes
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-    <configuration name="JedisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.colson.redis.JedisTest" />
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-    <configuration name="MakeErWeiMa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.colson.erWeiMa.MakeErWeiMa" />
-=======
-    <configuration name="TianJinProjectApprovalTransformer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.colson.tianJinBaoSong.TianJinProjectApprovalTransformer" />
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-=======
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
+  <component name="RunManager" selected="JUnit.TranslateHump.translateFromHump">
+    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.ArrayQueue" />
       <module name="gmcf-colson-dal" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-<<<<<<< Updated upstream
-          <option name="PATTERN" value="com.colson.tianJinBaoSong.*" />
-=======
-<<<<<<< HEAD
-          <option name="PATTERN" value="com.colson.redis.*" />
-=======
-          <option name="PATTERN" value="com.colson.tianJinBaoSong.*" />
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
+          <option name="PATTERN" value="com.colson.dataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-<<<<<<< Updated upstream
     </configuration>
-    <configuration name="TianJinProjectApprovalTransformer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.colson.renHangBaoSong.TianJinProjectApprovalTransformer" />
+    <configuration name="SingleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.SingleList" />
       <module name="gmcf-colson-dal" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-=======
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileUpdateReader.getCommonFromTwoFiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gmcf-colson-dal" />
->>>>>>> Stashed changes
       <extension name="coverage">
         <pattern>
-<<<<<<< Updated upstream
-          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
-=======
-<<<<<<< HEAD
-          <option name="PATTERN" value="com.colson.renHangBaoSong.*" />
-=======
-          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
+          <option name="PATTERN" value="com.colson.dataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-<<<<<<< Updated upstream
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-=======
-      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
-      <option name="METHOD_NAME" value="getCommonFromTwoFiles" />
+    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.colson.dataStructure.SparseArray" />
+      <module name="gmcf-colson-dal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.colson.dataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TranslateHump.translateFromHump" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmcf-colson-dal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.colson.tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.colson.tool" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.tool.TranslateHump" />
+      <option name="METHOD_NAME" value="translateFromHump" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
->>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-    <configuration name="HashMapTest.testHashMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-    <configuration name="code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.colson.nowCoder.code" />
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
+    <configuration name="TranslateHump.translateToHump" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gmcf-colson-dal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.colson.mianshi.*" />
+          <option name="PATTERN" value="com.colson.tool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-      <option name="PACKAGE_NAME" value="com.colson.mianshi" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.mianshi.HashMapTest" />
-      <option name="METHOD_NAME" value="testHashMap" />
+      <option name="PACKAGE_NAME" value="com.colson.tool" />
+      <option name="MAIN_CLASS_NAME" value="com.colson.tool.TranslateHump" />
+      <option name="METHOD_NAME" value="translateToHump" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-=======
->>>>>>> Stashed changes
-=======
-    <configuration name="FileUpdateReader.testContainContent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gmcf-colson-dal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
-      <option name="METHOD_NAME" value="testContainContent" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-=======
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-    <configuration name="JedisTest.testJedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-    <configuration name="CollectionTest.testArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
-      <module name="gmcf-colson-dal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.colson.redis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-<<<<<<< HEAD
-      <option name="PACKAGE_NAME" value="com.colson.redis" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.redis.JedisTest" />
-      <option name="METHOD_NAME" value="testJedis" />
-=======
-      <option name="PACKAGE_NAME" value="com.colson.mianshi" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.mianshi.CollectionTest" />
-      <option name="METHOD_NAME" value="testArrayList" />
-=======
-    <configuration name="FileUpdateReader.testCurrentOverdueStage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gmcf-colson-dal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
-      <option name="METHOD_NAME" value="testCurrentOverdueStage" />
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-=======
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-    <configuration name="TreeMapTest.testTreeMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-    <configuration name="FileReader.testHowManySingleData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
-      <module name="gmcf-colson-dal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.colson.mianshi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-<<<<<<< HEAD
-      <option name="PACKAGE_NAME" value="com.colson.mianshi" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.mianshi.TreeMapTest" />
-      <option name="METHOD_NAME" value="testTreeMap" />
-=======
-      <option name="PACKAGE_NAME" value="com.colson.fileReader" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.fileReader.FileReader" />
-      <option name="METHOD_NAME" value="testHowManySingleData" />
-=======
-    <configuration name="FileUpdateReader.update24Months" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gmcf-colson-dal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.colson.renHangFileReader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.colson.renHangFileReader" />
-      <option name="MAIN_CLASS_NAME" value="com.colson.renHangFileReader.FileUpdateReader" />
-      <option name="METHOD_NAME" value="update24Months" />
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-=======
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< Updated upstream
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="gmf-colson-lianxi" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-=======
->>>>>>> Stashed changes
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-      <item itemvalue="Application.TianJinProjectApprovalTransformer" />
-      <item itemvalue="Application.JedisTest" />
-      <item itemvalue="JUnit.HashMapTest.testHashMap" />
-      <item itemvalue="JUnit.TreeMapTest.testTreeMap" />
-      <item itemvalue="JUnit.JedisTest.testJedis" />
+      <item itemvalue="Application.SparseArray" />
+      <item itemvalue="Application.ArrayQueue" />
+      <item itemvalue="Application.SingleList" />
+      <item itemvalue="JUnit.TranslateHump.translateToHump" />
+      <item itemvalue="JUnit.TranslateHump.translateFromHump" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JedisTest" />
-        <item itemvalue="JUnit.JedisTest.testJedis" />
-        <item itemvalue="Application.TianJinProjectApprovalTransformer" />
-        <item itemvalue="JUnit.TreeMapTest.testTreeMap" />
-        <item itemvalue="JUnit.HashMapTest.testHashMap" />
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-      <item itemvalue="Application.TestBigData" />
-      <item itemvalue="Application.MakeErWeiMa" />
-      <item itemvalue="Application.code" />
-      <item itemvalue="JUnit.FileReader.testHowManySingleData" />
-      <item itemvalue="JUnit.CollectionTest.testArrayList" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.code" />
-        <item itemvalue="JUnit.CollectionTest.testArrayList" />
-        <item itemvalue="Application.MakeErWeiMa" />
-        <item itemvalue="JUnit.FileReader.testHowManySingleData" />
-        <item itemvalue="Application.TestBigData" />
-=======
-      <item itemvalue="Application.TianJinProjectApprovalTransformer" />
-      <item itemvalue="JUnit.FileUpdateReader.testCurrentOverdueStage" />
-      <item itemvalue="JUnit.FileUpdateReader.update24Months" />
-      <item itemvalue="JUnit.FileUpdateReader.testContainContent" />
-      <item itemvalue="JUnit.FileUpdateReader.getCommonFromTwoFiles" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TianJinProjectApprovalTransformer" />
-        <item itemvalue="JUnit.FileUpdateReader.getCommonFromTwoFiles" />
-        <item itemvalue="JUnit.FileUpdateReader.testContainContent" />
-        <item itemvalue="JUnit.FileUpdateReader.testCurrentOverdueStage" />
-        <item itemvalue="JUnit.FileUpdateReader.update24Months" />
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-=======
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
+        <item itemvalue="JUnit.TranslateHump.translateFromHump" />
+        <item itemvalue="JUnit.TranslateHump.translateToHump" />
+        <item itemvalue="Application.SingleList" />
+        <item itemvalue="Application.ArrayQueue" />
+        <item itemvalue="Application.SparseArray" />
       </list>
     </recent_temporary>
   </component>
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
-  </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\18232\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1448812-ed0a-42a7-8826-42997cc14dd8" name="Default" comment="" />
-      <created>1544063523773</created>
+      <changelist id="9271df96-80ca-4810-a8f9-7dad519f36c2" name="Default Changelist" comment="" />
+      <created>1597108845079</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544063523773</updated>
-      <workItem from="1544063525476" duration="2519000" />
-      <workItem from="1544066729931" duration="3999000" />
-      <workItem from="1544148322789" duration="5354000" />
-      <workItem from="1544162366594" duration="5957000" />
-      <workItem from="1544282243354" duration="582000" />
-      <workItem from="1544411235789" duration="1375000" />
-      <workItem from="1544437410901" duration="3351000" />
-      <workItem from="1544493490547" duration="974000" />
-      <workItem from="1544494490476" duration="67000" />
-      <workItem from="1544494563788" duration="101000" />
-      <workItem from="1544494672066" duration="28000" />
-      <workItem from="1544494747398" duration="230000" />
-      <workItem from="1544494988385" duration="138000" />
-      <workItem from="1544495135441" duration="40000" />
-      <workItem from="1544495181475" duration="4911000" />
-      <workItem from="1544594508854" duration="4730000" />
-      <workItem from="1544668294772" duration="2179000" />
-      <workItem from="1545012345956" duration="7188000" />
-      <workItem from="1545285832384" duration="1459000" />
-      <workItem from="1545357445981" duration="1279000" />
-      <workItem from="1545445135843" duration="257000" />
-      <workItem from="1545618649569" duration="1435000" />
-      <workItem from="1545791543768" duration="652000" />
-      <workItem from="1545807900584" duration="4972000" />
-      <workItem from="1547871002787" duration="1707000" />
-      <workItem from="1548035950521" duration="341000" />
-      <workItem from="1548228402536" duration="943000" />
-      <workItem from="1548299372810" duration="5539000" />
-      <workItem from="1548397889735" duration="338000" />
-      <workItem from="1548398235456" duration="326000" />
-      <workItem from="1548398568202" duration="63000" />
-      <workItem from="1548407293864" duration="703000" />
-      <workItem from="1548836472872" duration="620000" />
-      <workItem from="1549937706330" duration="594000" />
-      <workItem from="1550023999266" duration="858000" />
-      <workItem from="1550110907792" duration="1106000" />
-      <workItem from="1550112983720" duration="904000" />
-      <workItem from="1551152848068" duration="4298000" />
-      <workItem from="1552379514103" duration="20279000" />
-      <workItem from="1552527804805" duration="4244000" />
-      <workItem from="1552614976753" duration="15340000" />
-      <workItem from="1552706341219" duration="24673000" />
-      <workItem from="1552958705757" duration="3138000" />
-      <workItem from="1553071007135" duration="6507000" />
-      <workItem from="1553161558352" duration="3056000" />
-      <workItem from="1553217534440" duration="22991000" />
-      <workItem from="1553311368419" duration="13417000" />
-      <workItem from="1553742612048" duration="4386000" />
-      <workItem from="1553782050945" duration="14527000" />
-      <workItem from="1554081904590" duration="5529000" />
-      <workItem from="1554276581600" duration="1837000" />
-      <workItem from="1555295775069" duration="624000" />
-      <workItem from="1555317592397" duration="928000" />
-      <workItem from="1555371198795" duration="24000" />
-      <workItem from="1555372414495" duration="197000" />
-      <workItem from="1555577077843" duration="1040000" />
-      <workItem from="1555653929265" duration="11812000" />
-      <workItem from="1555897951604" duration="8687000" />
-      <workItem from="1556014188626" duration="1886000" />
-      <workItem from="1556097798138" duration="4000" />
-      <workItem from="1556099214233" duration="2074000" />
-      <workItem from="1556116202691" duration="1504000" />
-      <workItem from="1556157362384" duration="4983000" />
-      <workItem from="1556241870533" duration="12000" />
-      <workItem from="1556246676479" duration="3992000" />
-      <workItem from="1556418991151" duration="6829000" />
-      <workItem from="1556532438148" duration="1769000" />
-      <workItem from="1556608369345" duration="3628000" />
-      <workItem from="1557041071820" duration="5407000" />
-      <workItem from="1557108833769" duration="7388000" />
-      <workItem from="1557198714259" duration="6432000" />
-      <workItem from="1557383210872" duration="13160000" />
-      <workItem from="1557711654283" duration="5103000" />
-      <workItem from="1557797080942" duration="9966000" />
-      <workItem from="1557914849477" duration="1754000" />
-      <workItem from="1557985591514" duration="2914000" />
-      <workItem from="1558087750997" duration="658000" />
-      <workItem from="1558319295975" duration="1699000" />
-      <workItem from="1558433421641" duration="3232000" />
-      <workItem from="1558665942630" duration="1566000" />
-      <workItem from="1558669284799" duration="1961000" />
-      <workItem from="1558924492793" duration="11360000" />
-      <workItem from="1559009435082" duration="8215000" />
-      <workItem from="1559095843533" duration="1483000" />
-      <workItem from="1559524577261" duration="4409000" />
-      <workItem from="1559642564432" duration="9234000" />
-      <workItem from="1560128957398" duration="1754000" />
-      <workItem from="1560215433035" duration="1994000" />
-      <workItem from="1560305077490" duration="616000" />
-      <workItem from="1560389680045" duration="619000" />
-      <workItem from="1560420205006" duration="609000" />
-      <workItem from="1560506559669" duration="602000" />
-      <workItem from="1560765290141" duration="1047000" />
-      <workItem from="1560821962082" duration="7000" />
-      <workItem from="1560828257089" duration="10260000" />
-      <workItem from="1560907978333" duration="2339000" />
-      <workItem from="1560994603313" duration="1779000" />
-      <workItem from="1561080910656" duration="806000" />
-      <workItem from="1561339102407" duration="3903000" />
-      <workItem from="1561544712417" duration="109000" />
-      <workItem from="1561600627005" duration="1192000" />
-      <workItem from="1561686926273" duration="3375000" />
-      <workItem from="1561945389489" duration="6806000" />
-      <workItem from="1562309650124" duration="2891000" />
-      <workItem from="1562566680913" duration="5292000" />
-      <workItem from="1562654128497" duration="2672000" />
-      <workItem from="1563266906603" duration="3305000" />
-      <workItem from="1563327708660" duration="44981000" />
-      <workItem from="1563499373311" duration="1887000" />
-      <workItem from="1563517714163" duration="4757000" />
-      <workItem from="1563759068907" duration="583000" />
-      <workItem from="1563950505293" duration="1728000" />
-      <workItem from="1564104185469" duration="588000" />
-      <workItem from="1564451329589" duration="875000" />
-      <workItem from="1564541946631" duration="708000" />
-      <workItem from="1564642254767" duration="507000" />
-      <workItem from="1564712423725" duration="1373000" />
-      <workItem from="1564971374611" duration="5225000" />
-      <workItem from="1565161822338" duration="2803000" />
-<<<<<<< Updated upstream
-      <workItem from="1595332576118" duration="8653000" />
-<<<<<<< HEAD
-      <workItem from="1595492163457" duration="13763000" />
-      <workItem from="1595552419101" duration="23072000" />
-      <workItem from="1596008111629" duration="3284000" />
-      <workItem from="1596159329423" duration="7048000" />
-      <workItem from="1596419182650" duration="2322000" />
-      <workItem from="1596522304578" duration="1382000" />
-      <workItem from="1596589313933" duration="595000" />
-      <workItem from="1596676830556" duration="597000" />
-      <workItem from="1596698431054" duration="5807000" />
-      <workItem from="1596712596739" duration="1196000" />
-      <workItem from="1596763428728" duration="2529000" />
-      <workItem from="1597021778885" duration="1195000" />
-      <workItem from="1597025202068" duration="695000" />
-=======
-      <workItem from="1595492163457" duration="12227000" />
-=======
-      <workItem from="1571975015896" duration="933000" />
-      <workItem from="1572241481923" duration="2849000" />
-      <workItem from="1573027994563" duration="1117000" />
-      <workItem from="1573607104167" duration="13607000" />
-      <workItem from="1573695911027" duration="6364000" />
-      <workItem from="1574041178886" duration="11418000" />
-      <workItem from="1574229450448" duration="2638000" />
-      <workItem from="1574241806073" duration="634000" />
-      <workItem from="1574303638742" duration="4000" />
-      <workItem from="1574303733514" duration="42000" />
-      <workItem from="1574303797407" duration="94000" />
-      <workItem from="1574303956493" duration="11283000" />
-      <workItem from="1574417126614" duration="35000" />
-      <workItem from="1574665859159" duration="447000" />
-      <workItem from="1574670718189" duration="1340000" />
-      <workItem from="1574731833924" duration="18000" />
-      <workItem from="1574835439946" duration="5497000" />
-      <workItem from="1574923426879" duration="2660000" />
-      <workItem from="1574929960036" duration="10674000" />
-      <workItem from="1575007943770" duration="1491000" />
-      <workItem from="1575254243841" duration="10609000" />
-      <workItem from="1575338414772" duration="20000" />
-      <workItem from="1575338983097" duration="1926000" />
-      <workItem from="1575428395890" duration="10114000" />
-      <workItem from="1575515545756" duration="17000" />
-      <workItem from="1575515883577" duration="1931000" />
-      <workItem from="1575531918841" duration="2069000" />
-      <workItem from="1575603152230" duration="3825000" />
-      <workItem from="1575858843261" duration="3133000" />
-      <workItem from="1575960996723" duration="7213000" />
-      <workItem from="1576069408499" duration="2853000" />
-      <workItem from="1576143931364" duration="762000" />
-      <workItem from="1576217219190" duration="1717000" />
-      <workItem from="1576568128080" duration="1292000" />
-      <workItem from="1577111520426" duration="2033000" />
-      <workItem from="1577166584565" duration="10564000" />
-      <workItem from="1577262188043" duration="79000" />
-      <workItem from="1577343189021" duration="1256000" />
-      <workItem from="1577676160758" duration="19000" />
-      <workItem from="1578274967108" duration="27757000" />
-      <workItem from="1578475086376" duration="6598000" />
-      <workItem from="1578557930060" duration="1572000" />
-      <workItem from="1578625262579" duration="2000" />
-      <workItem from="1578625415064" duration="1000" />
-      <workItem from="1578625443992" duration="15000" />
-      <workItem from="1578625485323" duration="12000" />
-      <workItem from="1578625525510" duration="68000" />
-      <workItem from="1578625668069" duration="88000" />
-      <workItem from="1578625810437" duration="911000" />
-      <workItem from="1580710799091" duration="7384000" />
-      <workItem from="1581386257464" duration="24000" />
-      <workItem from="1581583228645" duration="3560000" />
-      <workItem from="1582597588719" duration="150000" />
-      <workItem from="1584934053563" duration="842000" />
-      <workItem from="1584948169325" duration="31000" />
-      <workItem from="1588835203777" duration="1535000" />
-      <workItem from="1589020676502" duration="607000" />
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-=======
->>>>>>> 0899f2bcd1ce5de3ba893e4b662f55f81db9aa63
->>>>>>> Stashed changes
+      <updated>1597108845079</updated>
+      <workItem from="1597108846307" duration="14693000" />
+      <workItem from="1597713804516" duration="10515000" />
+      <workItem from="1597799749311" duration="9629000" />
+      <workItem from="1597886643395" duration="599000" />
+      <workItem from="1597972914443" duration="599000" />
+      <workItem from="1598838877813" duration="1273000" />
+      <workItem from="1599027243339" duration="2445000" />
+      <workItem from="1599096210646" duration="2889000" />
+      <workItem from="1600219140070" duration="1058000" />
+      <workItem from="1600246639242" duration="606000" />
+      <workItem from="1600331966104" duration="599000" />
+      <workItem from="1600839106823" duration="1015000" />
+      <workItem from="1600911829003" duration="3658000" />
+      <workItem from="1601289916360" duration="1278000" />
+      <workItem from="1601342665572" duration="790000" />
+      <workItem from="1601429956944" duration="1210000" />
+      <workItem from="1602206856366" duration="4799000" />
+      <workItem from="1602295002707" duration="603000" />
+      <workItem from="1602463507379" duration="1810000" />
+      <workItem from="1602483576742" duration="8109000" />
+      <workItem from="1602553129371" duration="5075000" />
+      <workItem from="1602638248172" duration="1804000" />
+      <workItem from="1602660758133" duration="977000" />
+      <workItem from="1602723789923" duration="4451000" />
+      <workItem from="1602810226042" duration="605000" />
+      <workItem from="1603097202407" duration="845000" />
+      <workItem from="1603156883454" duration="615000" />
+      <workItem from="1604385110057" duration="1333000" />
     </task>
-    <task id="LOCAL-00001" summary="更新ArrayList和DateUtils">
-      <created>1544149278903</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1544149278903</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-<<<<<<< Updated upstream
     <option name="version" value="2" />
-=======
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
->>>>>>> Stashed changes
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="更新ArrayList和DateUtils" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新ArrayList和DateUtils" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2685" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1596706280374">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597722268703">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2685" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596706280374" />
-    <state width="554" height="584" key="DebuggerActiveHint" timestamp="1596702159979">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597722268703" />
+    <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1602492895204">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="443" height="462" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596010109749" />
-    <state width="554" height="584" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596702159979" />
-    <state width="499" height="582" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1595343017457" />
-    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1595466928278">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2685" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597831793991" />
+    <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602492895204" />
+    <state width="544" height="611" key="DebuggerActiveHint" timestamp="1604385367561">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595466928278" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1595554130371">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="435" height="466" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597116178798" />
+    <state width="544" height="611" key="DebuggerActiveHint/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385367561" />
+    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1597114044982">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595554130371" />
-    <state width="1877" height="364" key="GridCell.Tab.0.bottom" timestamp="1596706646440">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597114044982" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1602729061184">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596700429383" />
-    <state width="1877" height="364" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596706646440" />
-    <state width="1865" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595343111923" />
-    <state width="1877" height="364" key="GridCell.Tab.0.center" timestamp="1596706646440">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597110055897" />
+    <state x="2606" y="219" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602483374203" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1602729061184" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1604385958697">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="274" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596700429383" />
-    <state width="1877" height="364" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596706646440" />
-    <state width="1865" height="423" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595343111923" />
-    <state width="1877" height="364" key="GridCell.Tab.0.left" timestamp="1596706646439">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597127861510" />
+    <state width="1877" height="359" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597832448860" />
+    <state width="1493" height="320" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385958697" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1604385958697">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="274" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596700429383" />
-    <state width="1877" height="364" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596706646439" />
-    <state width="1865" height="423" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595343111923" />
-    <state width="1877" height="364" key="GridCell.Tab.0.right" timestamp="1596706646440">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597127861510" />
+    <state width="1877" height="359" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597832448860" />
+    <state width="1493" height="320" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385958697" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1604385958697">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="274" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596700429383" />
-    <state width="1877" height="364" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596706646440" />
-    <state width="1865" height="423" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595343111923" />
-    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1596702258735">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597127861510" />
+    <state width="1877" height="359" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597832448860" />
+    <state width="1493" height="320" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385958697" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1604385958697">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596010069211" />
-    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596702258735" />
-    <state width="1865" height="423" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595343108697" />
-    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1596702258735">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597127861510" />
+    <state width="1877" height="359" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597832448860" />
+    <state width="1493" height="320" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385958697" />
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom" timestamp="1604385428447">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596010069211" />
-    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596702258735" />
-    <state width="1865" height="423" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595343108697" />
-    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1596702258735">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="353" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597126320562" />
+    <state width="1877" height="426" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597828465977" />
+    <state width="1493" height="320" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385428447" />
+    <state width="1877" height="268" key="GridCell.Tab.1.center" timestamp="1604385428447">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596010069211" />
-    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596702258735" />
-    <state width="1865" height="423" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595343108697" />
-    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1596702258735">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="353" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597126320562" />
+    <state width="1877" height="426" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597828465977" />
+    <state width="1493" height="320" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="268" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385428447" />
+    <state width="1877" height="268" key="GridCell.Tab.1.left" timestamp="1604385428447">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596010069211" />
-    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596702258735" />
-    <state width="1865" height="423" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595343108697" />
-    <state x="2589" y="254" key="VcsDiffUtil.ChangesDialog" timestamp="1595466938388">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="353" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597126320562" />
+    <state width="1877" height="426" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597828465977" />
+    <state width="1493" height="320" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="268" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385428447" />
+    <state width="1877" height="268" key="GridCell.Tab.1.right" timestamp="1604385428447">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2589" y="254" key="VcsDiffUtil.ChangesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595466938388" />
-    <state x="2582" y="223" width="596" height="594" key="find.popup" timestamp="1595554125009">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="353" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597126320562" />
+    <state width="1877" height="426" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597828465977" />
+    <state width="1493" height="320" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600952561167" />
+    <state width="1877" height="268" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604385428447" />
+    <state x="2410" y="195" key="Maven.ArtifactSearchDialog" timestamp="1600219173432">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2582" y="223" width="596" height="594" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595554125009" />
-    <state x="2536" y="240" key="run.anything.popup" timestamp="1596701158718">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="2410" y="195" key="Maven.ArtifactSearchDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600219173432" />
+    <state x="515" y="132" key="RollbackChangesDialog" timestamp="1597112696586">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="2536" y="240" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596701158718" />
+    <state x="515" y="132" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597112696586" />
+    <state x="468" y="115" width="600" height="594" key="find.popup" timestamp="1597115607333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="115" width="600" height="594" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597115607333" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1597111499466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597111499466" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1602209313991">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602209313991" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/leetCode/Solution2.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="6" />
+          <url>jar://$PROJECT_DIR$/../../maven/repository/org/apache/activemq/activemq-all/5.15.9/activemq-all-5.15.9.jar!/org/springframework/context/support/GenericApplicationContext.class</url>
+          <line>104</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/leetCode/Solution2.java</url>
-          <line>379</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/leetCode/Solution2.java</url>
-          <line>513</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/leetCode/Solution3.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/leetCode/Solution3.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/competition/Resolve.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/leetCode/Solution3.java</url>
-          <line>206</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/dataStructure/InsertSort.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-<<<<<<< Updated upstream
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/fileReader/FileReader.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/CollectionTest.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/CollectionTest.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/HashMapTest.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/gmcf-colson-dal/src/main/java/com/colson/mianshi/TreeMapTest.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/../../software/java/jdk/src.zip!/java/util/TreeMap.java</url>
-          <line>2306</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/../../software/java/jdk/src.zip!/java/util/TreeMap.java</url>
-          <line>2351</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-=======
->>>>>>> Stashed changes
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>gmf-colson-lianxi</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: org.apache.commons:commons-lang3:3.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gmf_colson_lianxi$JmsConsumer.ic" NAME="JmsConsumer Coverage Results" MODIFIED="1597720065726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.colson.ActiveMQ.*</FILTER>
+    </SUITE>
   </component>
 </project>
